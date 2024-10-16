@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d7ftBT2/24-7.png" group-title="Premium", 24/7
+https://github.com/Eagle776/KA/raw/main/RIM/LeVes/I/24_7.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SvDnyBB/paises.png" group-title="Premium 2",Canales por Pais
+https://github.com/Eagle776/KA/raw/main/RIM/LeVes/I/Paises3.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png", Canales Premium
+https://github.com/Eagle776/KA/raw/main/RIM/LeVes/I/PREMIUM.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0GZ170T/deportes.png", Deportes
+https://github.com/Eagle776/KA/raw/main/RIM/LeVes/I/DEPORTES.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nBDy3Qv/mas18.png", XXX Premium
+https://github.com/Eagle776/KA/raw/main/RIM/LeVes/I/FOR%20ADULTS.m3u
