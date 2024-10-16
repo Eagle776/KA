@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/fe1fc8bcbc5a6a2e4b0d9eab207f47e7.png" group-title="" ,PR | Wapa HD
+http://home-playtv.com:8080/Rmora01/PJNCN/169593
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/megatv-2019.png" ,PR  | Mega Tv 
+http://home-playtv.com:8080/Rmora01/PJNCN/60699
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/8f53295a73878494e9bc8dd6c3c7104f.png" ,PR  | Punto 2 TV 
+http://home-playtv.com:8080/Rmora01/PJNCN/60700
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/fe1fc8bcbc5a6a2e4b0d9eab207f47e7.png" ,PR  | Wapa 
+http://home-playtv.com:8080/Rmora01/PJNCN/60702
+#EXTINF:-1 tvg-logo="https://d1cd2t8ij9653t.cloudfront.net/eyJidWNrZXQiOiJ3YXBhdHYtaW1hZ2VzIiwia2V5IjoicHJvZ3JhbXMvMjAxOS8wNi8yMDE5MDYxOTE2NTk1MjB3YXBhX2RlcG9ydGVzX2xvZ29fYmxhY2twbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0IjozMTUsImZpdCI6Imluc2lkZSJ9fX0=" ,PR  | Wapa 2 
+http://home-playtv.com:8080/Rmora01/PJNCN/60703
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/23fe77344d5d072bc7bf0a185d137034.png" ,PR  | Wipr Canal 6 
+http://home-playtv.com:8080/Rmora01/PJNCN/60704
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/c584e84dce5386cad447e25da8e74a6c.png" ,PR | Wapa America 
+http://home-playtv.com:8080/Rmora01/PJNCN/60705
+#EXTINF:-1 tvg-logo="" ,PR | Telemundo
+http://home-playtv.com:8080/Rmora01/PJNCN/60706
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWLII-DT&psig=AOvVaw0zkxozKBIc1zQM0MsN39rw&ust=1681745206012000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLj-0Z7brv4CFQAAAAAdAAAAABAE" ,PR | TeleOnce
+http://home-playtv.com:8080/Rmora01/PJNCN/480429
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qh7Iywp.png" ,PR | WAPA Deportes HD
+http://home-playtv.com:8080/Rmora01/PJNCN/467711

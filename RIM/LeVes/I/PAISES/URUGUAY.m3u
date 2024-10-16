@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://acirn.com.uy//images/afiliaciones/beneficios/12.Canal_12_FrayBentos.png" group-title="" ,UR | Canal 12 HD 
+http://home-playtv.com:8080/Rmora01/PJNCN/21826
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" ,UY | VTV 
+http://home-playtv.com:8080/Rmora01/PJNCN/21830
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" ,UR | VTV HD 
+http://home-playtv.com:8080/Rmora01/PJNCN/47116
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" ,UR | VTV+  
+http://home-playtv.com:8080/Rmora01/PJNCN/17855
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Subrayado.png" ,UR | Canal 10 SAETA
+http://home-playtv.com:8080/Rmora01/PJNCN/17854
+#EXTINF:-1 tvg-logo="http://www.logoteca.uy/uploads/imagenes/file_6c982c9657.png" ,UR | Teledoce
+http://home-playtv.com:8080/Rmora01/PJNCN/171128
+#EXTINF:-1 tvg-logo="http://latinoamericatv.vip:8080/images/6ab1070fde5cd7d447bbea2c36744e01.jpg" ,UR | Canal 4 SD
+http://home-playtv.com:8080/Rmora01/PJNCN/216467
+#EXTINF:-1 tvg-logo="http://latinoamericatv.vip:8080/images/2ec20c18f461a7758e34030f89907a8f.jpg" ,UR | Canal 10 SD
+http://home-playtv.com:8080/Rmora01/PJNCN/216470
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/04/av.png?resize=696%2C435&ssl=1" ,UR | A+V 
+http://home-playtv.com:8080/Rmora01/PJNCN/503454
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jc2gPs2/TELEDOCE.jpg" ,UR | Teledoce HD
+http://home-playtv.com:8080/Rmora01/PJNCN/394839
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RYT2gZJ/CANAL-4.jpg" ,UR | Canal 4 FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/394841
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YhGXsgH/CANAL-10.jpg" ,UR | Canal 10 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/394842
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YhGXsgH/CANAL-10.jpg" ,UR | Canal 10 FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/394843
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5MHCdHw/LA-RED-TV.jpg" ,UR | La Red HD
+http://home-playtv.com:8080/Rmora01/PJNCN/394844
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qxBm9dC/TELEVISION-NACIONAL.jpg" ,UR | Canal 5
+http://home-playtv.com:8080/Rmora01/PJNCN/394845
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tbnkF3C/TV-CIUDAD.jpg" ,UR | TV Ciudad SD
+http://home-playtv.com:8080/Rmora01/PJNCN/394846
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVCLBPt/UCL-TV.jpg" ,UR | Canal UCL HD
+http://home-playtv.com:8080/Rmora01/PJNCN/394847
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LgzxZXh/WPLUS-TV.jpg" ,UR | VTV Plus HD
+http://home-playtv.com:8080/Rmora01/PJNCN/394849
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrHBZm1/VTV-SPORTS.jpg" ,UR | VTV Sports HD
+http://home-playtv.com:8080/Rmora01/PJNCN/394850
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zRnk8fv/GOL-TV.jpg" ,UR | Gol TV SD
+http://home-playtv.com:8080/Rmora01/PJNCN/394851

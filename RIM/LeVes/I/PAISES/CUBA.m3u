@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" ,CUB | Cubavisión Internacional
+http://home-playtv.com:8080/Rmora01/PJNCN/117148
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/multivision-1-logo-black-and-white.png" ,CUB | Multivision
+http://home-playtv.com:8080/Rmora01/PJNCN/199189
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/CUBAVISION_2017.png/640px-CUBAVISION_2017.png" ,CUB | Cubavision
+http://home-playtv.com:8080/Rmora01/PJNCN/176757
+#EXTINF:-1 tvg-logo="https://www.radiotelevisionmarti.com/Content/responsive/OCB/es-CU/img/logo-print_color.png" ,CUB | TeleRebelde
+http://home-playtv.com:8080/Rmora01/PJNCN/176758
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/america-tv-logo.png" ,CUB | America TV
+http://home-playtv.com:8080/Rmora01/PJNCN/176760
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/CubaPlay_Logo.png" ,CUB | CubaMax
+http://home-playtv.com:8080/Rmora01/PJNCN/176761
+#EXTINF:-1 tvg-logo="https://www.icrt.gob.cu/wp-content/uploads/2020/12/canal-caribe.png" ,CUB | TV Marti
+http://home-playtv.com:8080/Rmora01/PJNCN/176762

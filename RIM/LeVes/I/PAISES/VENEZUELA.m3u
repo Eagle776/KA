@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXDSDI7r41XS3k24733bf__tGqfSqXU2HrooKXppkYj1Kh_vuleuKnS98HxU8R_jM6I6g&usqp=CAU" group-title="" ,VE | Televen
+http://home-playtv.com:8080/Rmora01/PJNCN/56175
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/V/venevision-logo-9902174297-seeklogo.com.png" ,VE | Venevisión
+http://home-playtv.com:8080/Rmora01/PJNCN/56177
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_Meridiano_TV_Venezuela.png" ,VE | Meridiano TV
+http://home-playtv.com:8080/Rmora01/PJNCN/109086
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" ,VE | Tves
+http://home-playtv.com:8080/Rmora01/PJNCN/109092
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Logo_de_VALE_TV.png/200px-Logo_de_VALE_TV.png" ,VE | Vale TV
+http://home-playtv.com:8080/Rmora01/PJNCN/109094
+#EXTINF:-1 tvg-logo="" ,VE | Oxigeno TV
+http://home-playtv.com:8080/Rmora01/PJNCN/205624
+#EXTINF:-1 tvg-logo="" ,VE | Sun Channel
+http://home-playtv.com:8080/Rmora01/PJNCN/439742
+#EXTINF:-1 tvg-logo="" ,VE | Globovisión
+http://home-playtv.com:8080/Rmora01/PJNCN/439769
+#EXTINF:-1 tvg-logo="" ,VE | ANTV SD
+http://home-playtv.com:8080/Rmora01/PJNCN/439798
+#EXTINF:-1 tvg-logo="" ,VE | Meridiano SD
+http://home-playtv.com:8080/Rmora01/PJNCN/439806
+#EXTINF:-1 tvg-logo="" ,VE | TLT
+http://home-playtv.com:8080/Rmora01/PJNCN/439811
+#EXTINF:-1 tvg-logo="" ,VE | TV Familia SD
+http://home-playtv.com:8080/Rmora01/PJNCN/439813
+#EXTINF:-1 tvg-logo="" ,VE | Venevisión SD
+http://home-playtv.com:8080/Rmora01/PJNCN/439820
+#EXTINF:-1 tvg-logo="" ,VE | Vive SD
+http://home-playtv.com:8080/Rmora01/PJNCN/439821
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11054_7_8175.png.2d6922cbe2fd1aa19b130a1cad1b0079.png" ,VE | IVC
+http://home-playtv.com:8080/Rmora01/PJNCN/518559
+#EXTINF:-1 tvg-logo="https://i.imgur.com/on0pazx.png" ,VE | Telesur
+http://home-playtv.com:8080/Rmora01/PJNCN/452018
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r7k4ohW.png" ,VE | Ve Plus TV
+http://home-playtv.com:8080/Rmora01/PJNCN/452101
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jnJvyBC.png" ,VE | Canal I
+http://home-playtv.com:8080/Rmora01/PJNCN/452102

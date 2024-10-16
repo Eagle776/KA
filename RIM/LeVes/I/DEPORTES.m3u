@@ -1,0 +1,823 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" ,UK S | BT Sport Extra 1
+http://home-playtv.com:8080/Rmora01/PJNCN/197117
+#EXTINF:-1 tvg-logo="" ,UK S | BT Sport Extra 2
+http://home-playtv.com:8080/Rmora01/PJNCN/197118
+#EXTINF:-1 tvg-logo="" ,UK S | BT Sport Extra 3
+http://home-playtv.com:8080/Rmora01/PJNCN/197119
+#EXTINF:-1 tvg-logo="https://watch.boxnation.com/assets/boxnation/images/logo_box_nation.png" ,UK S | Box Nation
+http://home-playtv.com:8080/Rmora01/PJNCN/55729
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a98.png" ,UK S | BT Sport 1 HD 
+http://home-playtv.com:8080/Rmora01/PJNCN/40683
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a98.png" ,UK S | BT Sport 2 HD 
+http://home-playtv.com:8080/Rmora01/PJNCN/40684
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a98.png" ,UK S | BT Sport 3 HD 
+http://home-playtv.com:8080/Rmora01/PJNCN/40685
+#EXTINF:-1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQcAAAC/CAMAAADEm+k5AAAAzFBMVEX///8dD0TkATgbDEPiAB396u41KlYAADj5+foAADwYB0GpprLmIUwRAD5GPWMAAC5lX3oWAEDw7/EAADHjAC/uhZLmFEbjACnzpbEJADsAADXj4ucAACgAADbkADSVkaPCwMqGgpZ8d41xbIRNRmejoK+bmKgAACfiABDz8vXiABjtc4bS0Ni2s79WT24qHk08M1rQztaOip1gWXXpS2jpQWHugpP509rsZHv73ePufo/oMVf1tcD3xc7xl6b97/MAACAtIlAAABduZ4SfXuqMAAAGn0lEQVR4nO3da3uaSBgG4CE0ohhExKxFJCIeEo3GRLfd7TabNtv//58Wg0lNHE7DHJzD87kXwbuM7/AygwCUzHy2rdHNZNNJP53zyz8vquXL17/KGsRpXhuOTjemN5imnc7Xm+7VWbVcdRd/l2ZYDTQWGTRTGD5VREjSKwsxd3UmDtpgDjudbwssDGdni5JDoxmwYdCMGex0/ulicujelnOIPEYOVht2Ot+rfje85aKcQ9ti5OC0YKfzBzaHM+WgHJSDclAOykE5KAfloByUg3JQDspBOSgH5aAclINyUA7KQTkoB+WgHJSDciDqgO85Ly8O3gh2Opc92RyufdjpnONaB8KLgxvBz+fxBtfIIOWgm9hiNQbQUbHLv2efehlh7qCvsS0bfL7bQAfFq8Tj59Q8FYcg5GCkLHCjmx/Fl9OVOzBnDufK4SXKIYlySKIckiiHJMohiXJIohySKIckyiGJckhCzOHu2i6Wn2I7zDtFExL5YCVDzKFwxqk77GiGucNM8HFRMCs3UA4ALANd8HpRKL5lil43i6S+doSfPxTJxBN/HlUg40CC+WR+hq4M8+rcvL4PQHKHpS3HfVZOfENXDvuKqRySiqkcxoY0fZis7Cum7A4rW1MOBxVTboffFVNqh4OKKbXD5ON7hOR0OKyYEju8q5jyOqyOGWR0WMLeOSefg++ZxwzyORxVTEkdjiqmnA7HFVNKB0jFlNHh/T2mtA7Qiimfg2/AKqZ0DikVUzqHlIopm0NaxeTVYV5HSXrF3DtMAdJx53VWDg+W20BI3gucHYRj9ge1FTMHUB/bZvmXzucwaFrpt9gHwXiJE6GsAwChw+r13G9x3PUw41cN6DiA+S9W761/ie65E7wDAtEhniFbzC4J0zCwDwhkB9Bps7kk4gExwz8g0B3iS8Kgvold9+y7kBQCqgPo3NG9JOIKEWXt3GblAECzT++SsNz1FPrjHifgAPwJnUuC9ICo6gDAzM24i8QUM3AJD4jqDsC/75NV2A0IEpMFzA4ADO30/krV6N6AxoDA4gD8Z0I/BxQPiBGVAYHHAYDRgMAlEQ+IJqUBgcsBLLXMNkv5xPcQ2weqCABPPyrC+S1hBg2qA2IfLH25BxPXrZfl1igPiH3w9CfrYxfDJaE3+m3qA2IfXH3a6g0ap+9kvv2JbLD1q+NLosI8W7fceyL9laLB2LdHb9CYRsBsQOyD8/lFZ5vdoU9T6GtZP6NKJ3if46wQbsZNtgNiH8wOCCODv+dZuXlA+aoUz8FvoEwihHOYPyP1ZYRzyHy6L49D9tN9aRw2SHMH4RzS18NJ5bC0kW8uRHLoGOj3WAI5ZK6Hk8gBsWKK5jDO7N3nNWiEcchcD2e5rVH28z9RHMJB6kfUDbe9jItJLWuKJYhDesXcNRz3/ZVRRhtXDIeOBf+EHxqOD+vUS0IIh3oN2oE67sDXo7RLQgiHLawYwDvwoSbu/qwIsgAiHhDwR1IpD3sEcJgeVUzd62c8o4U+7OHfIfzYjjQDJ/sZ7Ryy9JJ7Bz94/5l2AyJ3WdvK+/jFyrtDRzucJu4WLYRF/uDR0kveHVoH/7GlFi18WHrJuUP798TIcp9LrfN8v/SSb4fRa8VEWuc5Pbj14tqhua+YpoG2ztNv9UVw2FdMx9VmqAufh7bDvUPyCijPnoQV/rJfCzh3mMcVUzfscdVVPMnSS34dWpbTt5AHxEFell5y69B27dYK05+PbG7fZz76D+desdCy+XRojvCuZapv+XTAv5apucv0ILO3DA+zeZfRcaJog7zqjvXvPgCwsYPAyM7BXvHsNOwa4phl7hChrheAx7HRIFg7tHFvbTIdpPNg61CfYN67EaeP9L3L1KFzT2CruDVGORWWDv6axF5Y+O/a54Whw9Ijsv+TN4ewT2bPI2cOTVLbovlyGBLbHc6VA+bZE68OW4Ibw/lxqLfwz544dJg/E33RDi8OvkP2TSKcOCxx7Hjl3yFEX4gtkkOTOAMXDhvk3QlCORCcPfHkQHL2xI8Did4Thw5Eek/8OfgarfewnbTDskH+3WMcOJDqPXHmQKz3xJcDud4TVw5UZk+n74D9yR2XDrRmTyfuQG32dNoO9GZPJ+2wNKjNng4cJigO9UVRhovSxw5Jt+Cg8UYoDuD7VTGG7m3ZI1PoPcFyjba89XPBgXHzreSBhxR6T5C4aJcDAF96RRgWlyUPG9nlfymjckxvECEyAHC76HVz0ls8lTzoL73GIPeVXmV6/nSZk8cf8T/7H90VFoqclW3aAAAAAElFTkSuQmCC" ,UK S | EuroSports 1
+http://home-playtv.com:8080/Rmora01/PJNCN/54233
+#EXTINF:-1 tvg-logo="http://artv.fair10.com:8000/images/7467ad046014efae68d4abd4cdad9e45.png" ,UK S | Eir Sport 1
+http://home-playtv.com:8080/Rmora01/PJNCN/47665
+#EXTINF:-1 tvg-logo="http://artv.fair10.com:8000/images/7467ad046014efae68d4abd4cdad9e45.png" ,UK S | Eir Sport 2
+http://home-playtv.com:8080/Rmora01/PJNCN/47666
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/220px-Premier_sports_logo_2018.svg.png" ,UK S | Eleven Sports 1 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/55732
+#EXTINF:-1 tvg-logo="https://img.apksum.com/f4/com.manutd.mutv/2.7.4/icon.png" ,UK S | MUTV
+http://home-playtv.com:8080/Rmora01/PJNCN/55730
+#EXTINF:-1 tvg-logo="http://artv.fair10.com:8000/images/8fb473712b7fade250068fa6df652c77.png" ,UK S | Premier Sports 1 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/47624
+#EXTINF:-1 tvg-logo="http://artv.fair10.com:8000/images/8fb473712b7fade250068fa6df652c77.png" ,UK S | Premier Sports 2
+http://home-playtv.com:8080/Rmora01/PJNCN/55726
+#EXTINF:-1 tvg-logo="http://artv.fair10.com:8000/images/8fb473712b7fade250068fa6df652c77.png" ,UK S | Premier Sports 2 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/47625
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,UK S | Sky Sports Action HD 
+http://home-playtv.com:8080/Rmora01/PJNCN/40703
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" ,UK S | SKY Sports F1
+http://home-playtv.com:8080/Rmora01/PJNCN/49104
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" ,UK S | Sky Sports Golf HD
+http://home-playtv.com:8080/Rmora01/PJNCN/51323
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" ,UK S | Sky Sports MIX 
+http://home-playtv.com:8080/Rmora01/PJNCN/47628
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,UK S | Sky Sports Premier League HD 
+http://home-playtv.com:8080/Rmora01/PJNCN/40707
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" ,UK S | Sky Sports Racing
+http://home-playtv.com:8080/Rmora01/PJNCN/47629
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3085874404/2647cc712f0673100b0e3eca81c94be5_400x400.png" ,UK S | Sky Sports Football HD
+http://home-playtv.com:8080/Rmora01/PJNCN/183600
+#EXTINF:-1 tvg-logo="http://artv.fair10.com:8000/images/bea67d901a10280393ae2dccf0886fb9.png" ,UK S | Sky Sports News
+http://home-playtv.com:8080/Rmora01/PJNCN/183602
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/chimg/7072964602.jpg" ,DE | SKY Sport Bundesliga 1 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/506160
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/chimg/1164641905.jpg" ,DE | SKY Sport Bundesliga 2 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/506161
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/chimg/4845185728.jpg" ,DE | SKY Sport Bundesliga 3 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/506162
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/chimg/2982136533.jpg" ,DE | SKY Sport Bundesliga 4 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/506163
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/chimg/6601179073.jpg" ,DE | SKY Sport Bundesliga 5 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/506164
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/52c5eb429c6fc1bf1806efd707e578c6.png" ,DE | SKY Sport Bundesliga 6 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/506165
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/chimg/1463696368.jpg" ,DE | SKY Sport Bundesliga 7 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/506166
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/93ecd0128bf1690a3246a794357ef774.png" ,DE | SKY Sport Bundesliga 8 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/506167
+#EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/chimg/2121791406.jpg" ,DE | SKY Sport Bundesliga 9 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/506168
+#EXTINF:-1 tvg-logo="http://starsat123.com:8080/images/7b76ecee0a9d553df9911b2ed6f257ae.png" ,A. SPORTS | DAZN BAR 2 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/209605
+#EXTINF:-1 tvg-logo="http://starsat123.com:8080/images/b1af8d82b522506737a96e33be03806b.jpg" ,SKY SPORT NEWS HD.
+http://home-playtv.com:8080/Rmora01/PJNCN/209606
+#EXTINF:-1 tvg-logo="http://starsat123.com:8080/images/61e6020a4f9f4707ba76b5eaac057ea6.jpg" ,EURO SPORT 2XTRA HD.
+http://home-playtv.com:8080/Rmora01/PJNCN/209608
+#EXTINF:-1 tvg-logo="http://starsat123.com:8080/images/8f776c2b8333c314134289741078a8e0.jpg" ,FC Bayern TV.
+http://home-playtv.com:8080/Rmora01/PJNCN/209620
+#EXTINF:-1 tvg-logo="http://starsat123.com:8080/images/f9dde9dacf115e85c36d946fa71d2616.png" ,A. SPORTS | DAZN BAR 1 HD.
+http://home-playtv.com:8080/Rmora01/PJNCN/209621
+#EXTINF:-1 tvg-logo="http://starsat123.com:8080/images/98017a472f81565a5a1f0bb0feda709b.jpg" ,SKY SPORT 1 HD.
+http://home-playtv.com:8080/Rmora01/PJNCN/209622
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sky_de_sport_02_hd.jpg" ,SKY SPORT 2 HD.
+http://home-playtv.com:8080/Rmora01/PJNCN/209623
+#EXTINF:-1 tvg-logo="" ,DE | Telekom Fußball 1 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/209625
+#EXTINF:-1 tvg-logo="" ,DE | Telekom Fußball 2 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/209626
+#EXTINF:-1 tvg-logo="" ,DE | Telekom Fußball 3 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/209627
+#EXTINF:-1 tvg-logo="" ,DE | Telekom Fußball 4 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/209628
+#EXTINF:-1 tvg-logo="" ,DE | Telekom Fußball 5 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/209629
+#EXTINF:-1 tvg-logo="" ,DE | Telekom Fußball 6 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/209630
+#EXTINF:-1 tvg-logo="" ,DE | Telekom Fußball 7 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/209631
+#EXTINF:-1 tvg-logo="" ,DE | Sky Sport 3 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/209646
+#EXTINF:-1 tvg-logo="" ,DE | Sky Sport 4 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/209648
+#EXTINF:-1 tvg-logo="" ,DE | Sky Sport 5 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/209650
+#EXTINF:-1 tvg-logo="" ,DE | Sky Sport 6 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/209652
+#EXTINF:-1 tvg-logo="" ,DE | Sky Sport 7 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/209654
+#EXTINF:-1 tvg-logo="" ,DE | Sky Sport 8 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/209655
+#EXTINF:-1 tvg-logo="" ,DE | Sky Sport 9 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/209656
+#EXTINF:-1 tvg-logo="" ,DE | Auto Motor Sport HD
+http://home-playtv.com:8080/Rmora01/PJNCN/209661
+#EXTINF:-1 tvg-logo="" ,DE | Eurosport 1 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/209663
+#EXTINF:-1 tvg-logo="" ,DE | Eurosport 2 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/209665
+#EXTINF:-1 tvg-logo="" ,DE | Motorvision TV
+http://home-playtv.com:8080/Rmora01/PJNCN/209667
+#EXTINF:-1 tvg-logo="" ,DE | Sport1 FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/209668
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6550.1489224113.png" ,AU S | Fox Sports 501
+http://home-playtv.com:8080/Rmora01/PJNCN/181214
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6BdfIxQX74fQhAnWvnUhGOBAttYa2iauSbw&usqp=CAU" ,AU S | Fox Sports 502
+http://home-playtv.com:8080/Rmora01/PJNCN/181215
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Fox-sports-3-colour.png/revision/latest/scale-to-width-down/340?cb=20170407121736" ,AU S | Fox Sports 503
+http://home-playtv.com:8080/Rmora01/PJNCN/181216
+#EXTINF:-1 tvg-logo="https://live.staticflickr.com/65535/49463466142_b37ff7b752_w.jpg" ,AU S | Fox Sports 507
+http://home-playtv.com:8080/Rmora01/PJNCN/181218
+#EXTINF:-1 tvg-logo="" ,AU S | Fox Sports 506
+http://home-playtv.com:8080/Rmora01/PJNCN/209693
+#EXTINF:-1 tvg-logo="" ,AU S | Fox Sports 505
+http://home-playtv.com:8080/Rmora01/PJNCN/209694
+#EXTINF:-1 tvg-logo="https://apphome.digital/logos/fox504.png" ,AU S | Fox Sports 504
+http://home-playtv.com:8080/Rmora01/PJNCN/209695
+#EXTINF:-1 tvg-logo="" ,AU S | ESPN 2
+http://home-playtv.com:8080/Rmora01/PJNCN/209699
+#EXTINF:-1 tvg-logo="" ,AU S | ESPN 1
+http://home-playtv.com:8080/Rmora01/PJNCN/209700
+#EXTINF:-1 tvg-logo="" ,AU S | Fox Sports NEWS
+http://home-playtv.com:8080/Rmora01/PJNCN/209703
+#EXTINF:-1 tvg-logo="" ,AR Oman Sport
+http://home-playtv.com:8080/Rmora01/PJNCN/58324
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" ,VIP BeIN Sports 1-HD
+http://home-playtv.com:8080/Rmora01/PJNCN/186761
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" ,VIP BeIN Sports 3-HD
+http://home-playtv.com:8080/Rmora01/PJNCN/186762
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" ,VIP BeIN Sports 2-HD
+http://home-playtv.com:8080/Rmora01/PJNCN/186763
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" ,VIP BeIN Sports 2
+http://home-playtv.com:8080/Rmora01/PJNCN/186767
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" ,VIP BeIN Sports 5-HD
+http://home-playtv.com:8080/Rmora01/PJNCN/186769
+#EXTINF:-1 tvg-logo="" ,VIP BeIN Sports Extra 1
+http://home-playtv.com:8080/Rmora01/PJNCN/186772
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/3428202045.png" ,AR: BeIN Sports News
+http://home-playtv.com:8080/Rmora01/PJNCN/214653
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/3172152015.png" ,AR: BEIN SPORTS 1 Premium FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/214654
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/2709565477.png" ,AR: BEIN SPORTS 3 Premium FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/214655
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/1097211873.png" ,AR: BEIN SPORTS 1 FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/214656
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/6253829531.png" ,AR: BEIN SPORTS 2 FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/214657
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/3666247154.png" ,AR: BEIN SPORTS 3 FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/214658
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/9135172668.png" ,AR: BEIN SPORTS 3 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214659
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/6134048431.png" ,AR: Bein Sports 10 FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/214660
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/7962136186.png" ,FR: BEIN SPORTS 1 FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/214661
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/4697254447.png" ,FR: BEIN SPORTS 2 FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/214662
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/3020362807.png" ,FR: BEIN SPORTS 8 FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/214663
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/4806127044.png" ,EN: BEIN SPORTS 2 FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/214664
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/9272448199.png" ,EN: BEIN SPORTS 5 FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/214665
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/4348757207.png" ,AR: BEIN SPORTS Premium 2 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214666
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/beIN12.png" ,EN: Bein Sport 12 FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/214667
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/beinmax.jpg" ,BEIN MAX 1 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214668
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/beinmax.jpg" ,BEIN MAX 2 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214669
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/beinmax.jpg" ,BEIN MAX 3 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214670
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/beinmax.jpg" ,BEIN MAX 4 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214671
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/1170622522.png" ,BeIN Sport Max 6 FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/214672
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/4820855773.png" ,BeIN Sport Max 5 FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/214673
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/7391339235.png" ,beIN SPORTS 5
+http://home-playtv.com:8080/Rmora01/PJNCN/214674
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/5047359548.png" ,AR: BEIN SPORTS 4 FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/214675
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/6306826828.png" ,AR: BEIN SPORTS 7 FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/214676
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/3337947918.png" ,FR: BEIN SPORTS 9 FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/214677
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/8791855276.png" ,beIN Sports 2 PREMIUM
+http://home-playtv.com:8080/Rmora01/PJNCN/214679
+#EXTINF:-1 tvg-logo="http://www.foxtel.com.au/content/dam/foxtel/shared/channel/B3E/bein-sports-3-hero.png" ,beIN Sports 3 PREMIUM
+http://home-playtv.com:8080/Rmora01/PJNCN/214680
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/6365017888.png" ,beIN Sports 2
+http://home-playtv.com:8080/Rmora01/PJNCN/214681
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/BeIN_Sports_logo_2017_(black).svg/1280px-BeIN_Sports_logo_2017_(black).svg.png" ,beIN Sports 3
+http://home-playtv.com:8080/Rmora01/PJNCN/214682
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/7122597205.png" ,beIN Sports 4
+http://home-playtv.com:8080/Rmora01/PJNCN/214683
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/6803882573.png" ,beIN Sports 5
+http://home-playtv.com:8080/Rmora01/PJNCN/214684
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/7031372340.png" ,beIN Sports 6
+http://home-playtv.com:8080/Rmora01/PJNCN/214685
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/7664636296.png" ,beIN Sports 7
+http://home-playtv.com:8080/Rmora01/PJNCN/214686
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/5615828726.png" ,EN: Bein Sports 1 FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/214687
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/1427270676.png" ,beIN SPORTS XTRA 1 FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/214688
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/2632703842.png" ,beIN SPORTS XTRA 2 FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/214689
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/1716740571.png" ,AR: beIN Sports Max 1 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214690
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/1050825297.png" ,AR: beIN Sports Max 2 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214691
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/8622954996.png" ,AR: beIN Sports Max 3 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214692
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/4510324040.png" ,AR: beIN Sports Max 4 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214693
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/4257188890.png" ,AR: Bein sport max 5 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214694
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/2711786398.png" ,AR: Bein sport max  6 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214695
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/8674518411.png" ,AR: VIP BeIN Sports 1 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214696
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/3666441796.png" ,AR: VIP BeIN Sports 2-HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214697
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/7107017894.png" ,AR: VIP BeIN Sports 3-HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214698
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/6105392900.png" ,AR: VIP BeIN Sports 4-HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214699
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/4773794456.png" ,AR: VIP BeIN Sports 5-HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214700
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/7792083203.png" ,AR: VIP BeIN Sports 6-HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214701
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/1023667229.png" ,AR: VIP BeIN Sports 9-HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214702
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/1444043873.png" ,AR: VIP BeIN Sports 10 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214703
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/9ee59993fa7e40d21c77f4a0e8dc892c.JPG" ,AR: Bein Sport 11 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214704
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/2860223322.png" ,BS: VIP BeIN Sports 12-HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214705
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/1185e0c5128d177d61f500c85b873833.JPG" ,AR: Bein Sport 1 SD
+http://home-playtv.com:8080/Rmora01/PJNCN/214706
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/880547bb3a613adfe767e3ee8a4ec852.JPG" ,AR: Bein Sport 3 SD
+http://home-playtv.com:8080/Rmora01/PJNCN/214707
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/bfe14e8d1c5134f87c7a24356b332c4e.JPG" ,BS:  Bein Sport 4 SD
+http://home-playtv.com:8080/Rmora01/PJNCN/214708
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/14a6177bfcaadc2a4c075bf88792d2d6.JPG" ,AR: Bein Sport 5 SD
+http://home-playtv.com:8080/Rmora01/PJNCN/214709
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/7d82e3797185376514ccd3c09fe9bb65.JPG" ,BS:  Bein Sport 7 SD
+http://home-playtv.com:8080/Rmora01/PJNCN/214710
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/b6ed679ef34be468824f03ab9bd5d3f9.JPG" ,AR: Bein Sport 8 SD
+http://home-playtv.com:8080/Rmora01/PJNCN/214711
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/4166144753.png" ,AR: Bein Sports 9 SD
+http://home-playtv.com:8080/Rmora01/PJNCN/214712
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/3753537739.png" ,AR: Bein Sports 10 SD
+http://home-playtv.com:8080/Rmora01/PJNCN/214713
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/7460717906.png" ,BS:  Bein Sport News HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214714
+#EXTINF:-1 tvg-logo="http://www.iptvforall.net/uploadlogo/prestige/Qatar/be_in_mena_sports_11_hd.png" ,||AR.BEIN|| BEIN SPORTS 11 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214715
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/3351154236.png" ,AR: BEIN FOX REWAYAT
+http://home-playtv.com:8080/Rmora01/PJNCN/214716
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/3802515876.png" ,AR: BEIN FATAFEAT HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214717
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/1740901970.png" ,AR: BEIN GULI
+http://home-playtv.com:8080/Rmora01/PJNCN/214718
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/6145770701.png" ,AR: BEIN GOURMET
+http://home-playtv.com:8080/Rmora01/PJNCN/214719
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/7982087236.png" ,AR: BEIN SPORTS NEWS HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214720
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/14a6177bfcaadc2a4c075bf88792d2d6.JPG" ,BS:  Bein Sport 6 SD
+http://home-playtv.com:8080/Rmora01/PJNCN/214721
+#EXTINF:-1 tvg-logo="http://vod-logo.net/photos/b1dc86750c902aebba41f28fe16c49b6.JPG" ,AR: Bein Sport 2 SD
+http://home-playtv.com:8080/Rmora01/PJNCN/214722
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/7889141653.png" ,AR: BeIN Sports 7 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214723
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/1192272536.png" ,beIN SPORTS XTRA 1 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214724
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/9801191210.png" ,beIN SPORTS XTRA 2 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214725
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/8841086315.png" ,AT:  BeIN SPORTS 2
+http://home-playtv.com:8080/Rmora01/PJNCN/214726
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/9331782182.png" ,AT:  beIN SPORTS 3
+http://home-playtv.com:8080/Rmora01/PJNCN/214727
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/2039309761.png" ,AT: beIN SPORTS 1
+http://home-playtv.com:8080/Rmora01/PJNCN/214728
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/2693759036.png" ,CA: beIN Sports HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214729
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/7025470360.png" ,UK: Bein Sports 1
+http://home-playtv.com:8080/Rmora01/PJNCN/214730
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/1824250125.png" ,US: beIN Sports 01
+http://home-playtv.com:8080/Rmora01/PJNCN/214731
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/4413679888.png" ,US:  beIN Sports 2
+http://home-playtv.com:8080/Rmora01/PJNCN/214732
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/2445618325.png" ,US:  beIN Sports 4 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214733
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/6884308346.png" ,US:  beIN Sports 5 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214734
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/6698305925.png" ,US:  beIN Sports 6 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214735
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/5927862928.png" ,US:  beIN Sports USA HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214736
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/1603498410.png" ,US: beIN SPORTS La Liga
+http://home-playtv.com:8080/Rmora01/PJNCN/214737
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/8491028598.png" ,US: beIN Sports N
+http://home-playtv.com:8080/Rmora01/PJNCN/214738
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/4308721800.png" ,US: beIN Sports 07
+http://home-playtv.com:8080/Rmora01/PJNCN/214739
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/7364477012.png" ,TR: Bein Sports 1 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214740
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/1340306342.png" ,TR: Bein Sports 4 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214741
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/8044270735.png" ,TR:  BEIN SPORTS 2 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214742
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/6474034751.png" ,TR:  BEIN SPORTS 3 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/214743
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/8424513456.png" ,TR:  BEIN SPORTS Haber SD
+http://home-playtv.com:8080/Rmora01/PJNCN/214744
+#EXTINF:-1 tvg-logo="http://tvstar.live:8880/chimg/4357439491.png" ,LSP: VIP BeIN Sports USA
+http://home-playtv.com:8080/Rmora01/PJNCN/214746
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.a50f5284bf2c3c0f6938e3adf4515b16?rik=CagfIoO3JxpDDg&pid=ImgRaw&r=0" ,DAZN Esp - Solo Eventos
+http://home-playtv.com:8080/Rmora01/PJNCN/533582
+#EXTINF:-1 tvg-logo="" ,DAZN 4 
+http://home-playtv.com:8080/Rmora01/PJNCN/199536
+#EXTINF:-1 tvg-logo="" ,DAZN 3 
+http://home-playtv.com:8080/Rmora01/PJNCN/199537
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 
+http://home-playtv.com:8080/Rmora01/PJNCN/199538
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 
+http://home-playtv.com:8080/Rmora01/PJNCN/199539
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" ,DEP ES | M. DAZN La Liga 1 FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/440259
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" ,DEP ES | M. DAZN La Liga 1 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/440260
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNLI.png" ,DEP ES | DAZN La Liga 1 SD
+http://home-playtv.com:8080/Rmora01/PJNCN/440261
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png" ,DEP ES | M. DAZN La Liga 2 FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/440262
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DAZNL2.png" ,DEP ES | M. DAZN La Liga 2 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/440263
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" ,DEP ES | La Liga (ESPN+) Solo Eventos
+http://home-playtv.com:8080/Rmora01/PJNCN/440264
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" ,DEP ES | La Liga (SKY Sports)
+http://home-playtv.com:8080/Rmora01/PJNCN/440265
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" ,DEP ES | La Liga (M+ La Liga)
+http://home-playtv.com:8080/Rmora01/PJNCN/440266
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" ,DEP ES | La Liga (M+ La Liga 2)
+http://home-playtv.com:8080/Rmora01/PJNCN/440267
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png'" ,DEP ES | La Liga (DAZN La Liga)
+http://home-playtv.com:8080/Rmora01/PJNCN/440268
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png'" ,DEP ES | La Liga (DAZN La Liga 2)
+http://home-playtv.com:8080/Rmora01/PJNCN/440269
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ycplsXvYhGY/W6lpwe5KAwI/AAAAAAAAAJ4/DD8JFcw3B-8w2ExQIgpIZRwODSZrWMaJQCPcBGAYYCw/s1600/hbo2.png" ,CINE | HBO 2 FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/19579
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" ,DEP ES | Movistar  Deportes
+http://home-playtv.com:8080/Rmora01/PJNCN/203769
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" ,DEP ES | Barca TV HD
+http://home-playtv.com:8080/Rmora01/PJNCN/33519
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/b8171ed5235d8f4f5d854f523fbbbafb.png" ,DEP ES | Movistar Golf HD
+http://home-playtv.com:8080/Rmora01/PJNCN/33526
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-movistar-formula-1-366.png" ,DEP ES | DAZN Fórmula 1 FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/33523
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tw80i8Ugk3w/W4xJg60UhkI/AAAAAAAAbt4/21v6ej-DVlUwpNBosopfU1Yv_BAu3nSGgCLcBGAs/s1600/La%2Bpresentacion%2Bdel%2Blogotipo%2B.jpg" ,DEP ES | Movistar Toros
+http://home-playtv.com:8080/Rmora01/PJNCN/33528
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" ,DEP ES | Movistar  Liga de Campeones  HD
+http://home-playtv.com:8080/Rmora01/PJNCN/35880
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" ,DEP ES | Vamos HD 
+http://home-playtv.com:8080/Rmora01/PJNCN/47430
+#EXTINF:-1 tvg-logo="https://img.favpng.com/11/0/22/eurosport-2-logo-television-png-favpng-fWfVDPur2CybCxk3NanD1Upcj.jpg" ,DEP ES | Eurosport 1 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/47435
+#EXTINF:-1 tvg-logo="https://img.favpng.com/11/0/22/eurosport-2-logo-television-png-favpng-fWfVDPur2CybCxk3NanD1Upcj.jpg" ,DEP ES | Eurosport 2 HD ES
+http://home-playtv.com:8080/Rmora01/PJNCN/47437
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png" ,DEP ES | Caza y Pesca
+http://home-playtv.com:8080/Rmora01/PJNCN/47669
+#EXTINF:-1 tvg-logo="https://tv.cazavision.com/images/logo-whitePT.png" ,DEP ES | Cazavision 
+http://home-playtv.com:8080/Rmora01/PJNCN/47670
+#EXTINF:-1 tvg-logo="http://tvgolatino.com:8080/images/d374184ab224ce5cd020dd43ae92f5d4.png" ,DEP ES | Multideporte
+http://home-playtv.com:8080/Rmora01/PJNCN/51319
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5kJL3w6/liga8.png" ,DEP ES | La Liga HD VIP ⭐️
+http://home-playtv.com:8080/Rmora01/PJNCN/54155
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" ,DEP ES | Movistar Liga de Campeones ⭐️
+http://home-playtv.com:8080/Rmora01/PJNCN/54157
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" ,DEP ES | Vamos HD.
+http://home-playtv.com:8080/Rmora01/PJNCN/54162
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-movistar-formula-1-366.png" ,DEP ES | DAZN Fórmula F1 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/59587
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" ,DEP ES | Movistar Liga de Campeones 2 
+http://home-playtv.com:8080/Rmora01/PJNCN/117139
+#EXTINF:-1 tvg-logo="" ,DEP ES | Movistar  Deportes 1 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/117140
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/900/439/png-transparent-television-channel-gol-tv-cnt-sports-zee-tv-logo-television-logo-logo-vector-thumbnail.png" ,DEP ES | GOL TV
+http://home-playtv.com:8080/Rmora01/PJNCN/119379
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/900/439/png-transparent-television-channel-gol-tv-cnt-sports-zee-tv-logo-television-logo-logo-vector-thumbnail.png" ,DEP ES | GOL TV HD
+http://home-playtv.com:8080/Rmora01/PJNCN/119381
+#EXTINF:-1 tvg-logo="http://serviciosvisuales.ga:25461/images/530d8a613086740a1add5811ab22d5ee.png" ,DEP ES | Sevilla FC TV
+http://home-playtv.com:8080/Rmora01/PJNCN/169288
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" ,DEP ES | Movistar Liga de Campeones 3
+http://home-playtv.com:8080/Rmora01/PJNCN/186859
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" ,DEP ES | Movistar Liga de Campeones 4
+http://home-playtv.com:8080/Rmora01/PJNCN/186860
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" ,DEP ES | Movistar Liga de Campeones 5
+http://home-playtv.com:8080/Rmora01/PJNCN/186861
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vamos-es.png" ,DEP ES | Movistar Vamos ⭐️
+http://home-playtv.com:8080/Rmora01/PJNCN/203766
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5kJL3w6/liga8.png" ,DEP ES | M+ La Liga 1
+http://home-playtv.com:8080/Rmora01/PJNCN/203781
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XsPJG1r/liga1.png" ,DEP ES | La Liga 1 VIP OP 2
+http://home-playtv.com:8080/Rmora01/PJNCN/203785
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" ,DEP ES | Movistar Liga de Campeones 1 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/203795
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1200px-Movistar_Liga_de_Campeones.svg.png" ,DEP ES | Movistar Liga de Campeones 2 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/203797
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" ,DEP ES | GOL TV HD
+http://home-playtv.com:8080/Rmora01/PJNCN/203808
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/archive/2/26/20111025105920%21Teledeporte_logo.png" ,DEP ES | Teledeporte
+http://home-playtv.com:8080/Rmora01/PJNCN/203811
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XsPJG1r/liga1.png" ,DEP ES | La Liga 1 VIP
+http://home-playtv.com:8080/Rmora01/PJNCN/209705
+#EXTINF:-1 tvg-logo="https://i.ibb.co/znSxvvX/liga2.png" ,DEP ES | La Liga 2 VIP
+http://home-playtv.com:8080/Rmora01/PJNCN/209707
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BKKGbn8/liga3.png" ,DEP ES | La Liga 3 VIP
+http://home-playtv.com:8080/Rmora01/PJNCN/209710
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZSCvcQ1/liga4.png" ,DEP ES | La Liga 4 VIP
+http://home-playtv.com:8080/Rmora01/PJNCN/209713
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MG91hY8/liga5.png" ,DEP ES | La Liga 5 SD VIP
+http://home-playtv.com:8080/Rmora01/PJNCN/209716
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5kJL3w6/liga8.png" ,DEP ES | La Liga HD VIP
+http://home-playtv.com:8080/Rmora01/PJNCN/209727
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5kJL3w6/liga8.png" ,DEP ES | La Liga SD VIP
+http://home-playtv.com:8080/Rmora01/PJNCN/217311
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bbQ1s2C/campeones6.png" ,DEP ES | Movistar Liga de Campeones 6
+http://home-playtv.com:8080/Rmora01/PJNCN/222437
+#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2020/02/Mundotoro-Principal-750x536.png" ,DEP ES | One Toro
+http://home-playtv.com:8080/Rmora01/PJNCN/517236
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tw80i8Ugk3w/W4xJg60UhkI/AAAAAAAAbt4/21v6ej-DVlUwpNBosopfU1Yv_BAu3nSGgCLcBGAs/s1600/La%2Bpresentacion%2Bdel%2Blogotipo%2B.jpg" ,DEP ES | Movistar Toros HD
+http://home-playtv.com:8080/Rmora01/PJNCN/517237
+#EXTINF:-1 tvg-logo="http://starplus.club:8080/images/8d33aaafe8f0580de60f417ba06756ab.png" ,DEP ES | Real Madrid TV SD
+http://home-playtv.com:8080/Rmora01/PJNCN/310522
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="" ,DEP | Adrenalina Sports
+http://home-playtv.com:8080/Rmora01/PJNCN/71832
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" ,DEP | Afizzionados HD
+http://home-playtv.com:8080/Rmora01/PJNCN/54984
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png" ,DEP  | Band Sports BRA
+http://home-playtv.com:8080/Rmora01/PJNCN/48534
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" ,DEP | Bein Sports Ñ 
+http://home-playtv.com:8080/Rmora01/PJNCN/36401
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" ,DEP | Bein Sports Ñ SD
+http://home-playtv.com:8080/Rmora01/PJNCN/228360
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/CDO_2021.png/revision/latest?cb=20211122020635&path-prefix=es" ,DEP | CDO Básico SD 
+http://home-playtv.com:8080/Rmora01/PJNCN/12826
+#EXTINF:-1 tvg-logo="https://static.epg.best/co/ClaroSports.co.png" ,DEP | Claro Sports HD
+http://home-playtv.com:8080/Rmora01/PJNCN/164262
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DEP | DirecTV Sports 1 ARG HD ►℗
+http://home-playtv.com:8080/Rmora01/PJNCN/158511
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DEP | DirecTV Sports FHD ⭐️
+http://home-playtv.com:8080/Rmora01/PJNCN/158506
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" ,DEP | DirecTV Sports 2 HD COL
+http://home-playtv.com:8080/Rmora01/PJNCN/257326
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" ,DEP | DirecTV Sports 2 SD ⭐️
+http://home-playtv.com:8080/Rmora01/PJNCN/158513
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ESPN_Extra_Logo_2022.webp" ,DEP | ESPN Extra  MX 
+http://home-playtv.com:8080/Rmora01/PJNCN/21229
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" ,DEP | ESPN 1 PE  
+http://home-playtv.com:8080/Rmora01/PJNCN/220727
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" ,DEP | ESPN 1  SD ►℗
+http://home-playtv.com:8080/Rmora01/PJNCN/219173
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" ,DEP | ESPN 1 PE HD ►℗
+http://home-playtv.com:8080/Rmora01/PJNCN/219172
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" ,DEP | ESPN 1 HD 
+http://home-playtv.com:8080/Rmora01/PJNCN/219171
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" ,DEP | ESPN 1 MX HD
+http://home-playtv.com:8080/Rmora01/PJNCN/9380
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" ,DEP | ESPN 1 MX SD
+http://home-playtv.com:8080/Rmora01/PJNCN/185154
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/ESPN2.us.png" ,DEP | ESPN 2 AR 
+http://home-playtv.com:8080/Rmora01/PJNCN/185666
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/ESPN2.us.png" ,DEP | ESPN 2 MX HD 
+http://home-playtv.com:8080/Rmora01/PJNCN/36391
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" ,DEP | ESPN 3  AR HD
+http://home-playtv.com:8080/Rmora01/PJNCN/21220
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" ,DEP | ESPN 3  MX 
+http://home-playtv.com:8080/Rmora01/PJNCN/9530
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" ,DEP | ESPN 3 MX HD  ►℗
+http://home-playtv.com:8080/Rmora01/PJNCN/186774
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/2560px-Espn_deportes.svg.png" ,DEP | ESPN Deportes SD
+http://home-playtv.com:8080/Rmora01/PJNCN/54094
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ESPN_Extra_Logo_2022.webp" ,DEP | ESPN Extra BRA
+http://home-playtv.com:8080/Rmora01/PJNCN/168997
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/FoxDeportes.us.png" ,DEP | FOX Deportes 
+http://home-playtv.com:8080/Rmora01/PJNCN/36396
+#EXTINF:-1 tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" ,DEP | FOX Sports 2 ARG HD ►℗
+http://home-playtv.com:8080/Rmora01/PJNCN/19652
+#EXTINF:-1 tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" ,DEP | FOX Sports 2 HD BRA
+http://home-playtv.com:8080/Rmora01/PJNCN/48540
+#EXTINF:-1 tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" ,DEP | FOX Sports 2 MEX HD
+http://home-playtv.com:8080/Rmora01/PJNCN/19495
+#EXTINF:-1 tvg-logo="http://i.ibb.co/p45c06n/Fox-Sports-3.png" ,DEP | FOX Sports 3 MX HD ►℗
+http://home-playtv.com:8080/Rmora01/PJNCN/19496
+#EXTINF:-1 tvg-logo="http://i.ibb.co/p45c06n/Fox-Sports-3.png" ,DEP | FOX Sports 3 HD MEX 
+http://home-playtv.com:8080/Rmora01/PJNCN/9538
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/640px-ESPN_Premium_logo.svg.png" ,DEP | ESPN Premium HD AR
+http://home-playtv.com:8080/Rmora01/PJNCN/215252
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/340?cb=20190119140234" ,DEP | FOX Sports Premium op2
+http://home-playtv.com:8080/Rmora01/PJNCN/21298
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" ,DEP | GOL TV LAT
+http://home-playtv.com:8080/Rmora01/PJNCN/51263
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" ,DEP | Premiere 1 HD BRA
+http://home-playtv.com:8080/Rmora01/PJNCN/56720
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" ,DEP | Premiere 3  BRA
+http://home-playtv.com:8080/Rmora01/PJNCN/49111
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" ,DEP | Premiere 5 HD BRA
+http://home-playtv.com:8080/Rmora01/PJNCN/56716
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1024px-Sky_Sports_logo_2017.svg.png" ,DEP | SKY Sports 16 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/149063
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1024px-Sky_Sports_logo_2017.svg.png" ,DEP | SKY Sports 24 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/149064
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" ,DEP | TNT Sports AR
+http://home-playtv.com:8080/Rmora01/PJNCN/211363
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" ,DEP | TNT Sports ARG
+http://home-playtv.com:8080/Rmora01/PJNCN/36424
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" ,DEP | TNT Sports 3 HD 
+http://home-playtv.com:8080/Rmora01/PJNCN/19638
+#EXTINF:-1 tvg-logo="https://image.ibb.co/eXDhHQ/Ty_C_Sports_Internacional.png" ,DEP | TYC Sports Internacional HD
+http://home-playtv.com:8080/Rmora01/PJNCN/188939
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV%2BUruguay.svg/768px-VTV%2BUruguay.svg.png" ,DEP | VTV Plus URU HD
+http://home-playtv.com:8080/Rmora01/PJNCN/186609
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/640px-ESPN_Premium_logo.svg.png" ,DEP | ESPN Premium FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/276163
+#EXTINF:-1 tvg-logo="http://i.ibb.co/grbk6p1/FOX-Sports.png" ,DEP | FOX Sports 1 HD COL
+http://home-playtv.com:8080/Rmora01/PJNCN/518960
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" ,DEP | ESPN 3 AR 
+http://home-playtv.com:8080/Rmora01/PJNCN/518963
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/ESPN2.us.png" ,DEP | ESPN 2 MX
+http://home-playtv.com:8080/Rmora01/PJNCN/518965
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/ESPN2.us.png" ,DEP | ESPN 2  PERU HD ►℗
+http://home-playtv.com:8080/Rmora01/PJNCN/518967
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6NVcwKapZwlpMVKIJ36WyhQui7E19f8PYG7yJ4uaPAyn2vGEhHPRinLIL3K3DscA4VQh" ,DEP | Caliente TV
+http://home-playtv.com:8080/Rmora01/PJNCN/558709
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/340?cb=20190119140234" ,DEP | FOX Sports Premium
+http://home-playtv.com:8080/Rmora01/PJNCN/158454
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/2/2b/TVCDep16Logo.png/revision/latest?cb=20160715002021&path-prefix=es" ,DEP | TVC Deportes HD
+http://home-playtv.com:8080/Rmora01/PJNCN/36406
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ESPN_Extra_Logo_2022.webp" ,DEP | ESPN Extra HD MX @
+http://home-playtv.com:8080/Rmora01/PJNCN/19485
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/ESPN2.us.png" ,DEP | ESPN 2 AR SD  ►℗
+http://home-playtv.com:8080/Rmora01/PJNCN/518964
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" ,DEP | ESPN 3 FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/40735
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/ESPN2.us.png" ,DEP | ESPN 2 FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/185149
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" ,DEP | ESPN 5
+http://home-playtv.com:8080/Rmora01/PJNCN/272499
+#EXTINF:-1 tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" ,DEP | FOX Sports 2 FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/186573
+#EXTINF:-1 tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" ,DEP | FOX Sports 2 SUR FHD ►℗
+http://home-playtv.com:8080/Rmora01/PJNCN/186606
+#EXTINF:-1 tvg-logo="http://i.ibb.co/p45c06n/Fox-Sports-3.png" ,DEP | FOX Sports 3 FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/93563
+#EXTINF:-1 tvg-logo="http://i.ibb.co/p45c06n/Fox-Sports-3.png" ,DEP | FOX Sports 3 SUR FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/36389
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_12/large.ESPN4_logo.png.6cabec4272e924e3273d3c6219ad67fb.png" ,DEP | ESPN 4 FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/224430
+#EXTINF:-1 tvg-logo="http://i.ibb.co/grbk6p1/FOX-Sports.png" ,DEP | FOX Sports 1 SUR  FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/36387
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" ,DEP | TyC Sport  FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/19461
+#EXTINF:-1 tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" ,DEP | FOX Sports 2 SD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/185155
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" ,DEP | TyC Sport SD
+http://home-playtv.com:8080/Rmora01/PJNCN/21222
+#EXTINF:-1 tvg-logo="http://i.ibb.co/grbk6p1/FOX-Sports.png" ,DEP | FOX Sports 1 SUR SD
+http://home-playtv.com:8080/Rmora01/PJNCN/518961
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" ,DEP | ESPN 3 FHD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/518962
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3RYlyVA3WNFK1NLPVQeowO6E4x.jpg" ,Jūjutsu*25sc**156pelis
+http://home-playtv.com:8080/movie/Rmora01/PJNCN/414914.mkv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/2560px-Espn_deportes.svg.png" ,DEP | ESPN Deportes HD
+http://home-playtv.com:8080/Rmora01/PJNCN/54533
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" ,DEP | TNT Sports FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/224369
+#EXTINF:-1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/626c38d9be96454421548539/900" ,DEP | Bein Sports XTRA Ñ
+http://home-playtv.com:8080/Rmora01/PJNCN/259731
+#EXTINF:-1 tvg-logo="http://i.ibb.co/grbk6p1/FOX-Sports.png" ,DEP | FOX Sports 1 HD MEX
+http://home-playtv.com:8080/Rmora01/PJNCN/198785
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" ,DEP | ESPN 1 SUR FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/439752
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" ,DEP | ESPN 1 AR FHD.
+http://home-playtv.com:8080/Rmora01/PJNCN/439754
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ESPN_Extra_Logo_2022.webp" ,DEP | ESPN Extra 4 ARG FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/439755
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/ESPN2.us.png" ,DEP | ESPN 2 FHD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/439757
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_12/large.ESPN4_logo.png.6cabec4272e924e3273d3c6219ad67fb.png" ,DEP | ESPN 4 SD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/439770
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" ,DEP | ESPN 6
+http://home-playtv.com:8080/Rmora01/PJNCN/439771
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/ESPN2.us.png" ,DEP | ESPN 2 SD SUR .
+http://home-playtv.com:8080/Rmora01/PJNCN/439772
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" ,DEP | ESPN 1 SD COL
+http://home-playtv.com:8080/Rmora01/PJNCN/439774
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" ,DEP | ESPN 1 SD CH
+http://home-playtv.com:8080/Rmora01/PJNCN/439775
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_12/large.ESPN4_logo.png.6cabec4272e924e3273d3c6219ad67fb.png" ,DEP | ESPN 4 SD
+http://home-playtv.com:8080/Rmora01/PJNCN/439801
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/ESPN2.us.png" ,DEP | ESPN 2 SD
+http://home-playtv.com:8080/Rmora01/PJNCN/439802
+#EXTINF:-1 tvg-logo="http://i.ibb.co/D7Dbqf8/Fox-Sports-2-Logo.png" ,DEP | FOX Sports 2 SD
+http://home-playtv.com:8080/Rmora01/PJNCN/439803
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/ESPN_Extra_Logo_2022.webp" ,DEP | ESPN Extra HD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/454717
+#EXTINF:-1 tvg-logo="http://i.ibb.co/grbk6p1/FOX-Sports.png" ,DEP | FOX Sports 1 MEX 
+http://home-playtv.com:8080/Rmora01/PJNCN/19632
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" ,DEP | TYC Sports HD
+http://home-playtv.com:8080/Rmora01/PJNCN/454718
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" ,DEP | ESPN 1 ARG HD
+http://home-playtv.com:8080/Rmora01/PJNCN/454719
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/ESPN2.us.png" ,DEP | ESPN 2 BR
+http://home-playtv.com:8080/Rmora01/PJNCN/456549
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" ,DEP | Premiere 2
+http://home-playtv.com:8080/Rmora01/PJNCN/456656
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" ,DEP | DirecTV Sports 2 FHD ⭐️
+http://home-playtv.com:8080/Rmora01/PJNCN/456658
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DEP | DirecTV Sports SD ⭐️
+http://home-playtv.com:8080/Rmora01/PJNCN/456659
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DEP | DirecTV Sports HD COL
+http://home-playtv.com:8080/Rmora01/PJNCN/456660
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/2000px-Claro_TV_wordmark.svg.png" ,DEP | Canal Claro HD
+http://home-playtv.com:8080/Rmora01/PJNCN/469051
+#EXTINF:-1 tvg-logo="https://static.epg.best/co/ClaroSports.co.png" ,DEP | Claro Sports 1 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/469052
+#EXTINF:-1 tvg-logo="https://static.epg.best/co/ClaroSports.co.png" ,DEP | Claro Sports 2 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/469053
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" ,DEP | ESPN 1 HD COL
+http://home-playtv.com:8080/Rmora01/PJNCN/519821
+#EXTINF:-1 tvg-logo="http://i.ibb.co/grbk6p1/FOX-Sports.png" ,DEP | FOX Sports 1  AR
+http://home-playtv.com:8080/Rmora01/PJNCN/158518
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DEP | DirecTV Sports HD ARG
+http://home-playtv.com:8080/Rmora01/PJNCN/310509
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DEP | DirecTV Sports 1 SD ECU
+http://home-playtv.com:8080/Rmora01/PJNCN/310516
+#EXTINF:-1 tvg-logo="https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/131/RealMadridTV.png" ,DEP | Real Madrid TV HD
+http://home-playtv.com:8080/Rmora01/PJNCN/310523
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DEP | DirecTV Sports HD ARG
+http://home-playtv.com:8080/Rmora01/PJNCN/310533
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DEP | DirecTV Sports + SD
+http://home-playtv.com:8080/Rmora01/PJNCN/310535
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DEP | DirecTV Sports HD ECU
+http://home-playtv.com:8080/Rmora01/PJNCN/310536
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DEP | DirecTV Sports + HD 
+http://home-playtv.com:8080/Rmora01/PJNCN/518959
+#EXTINF:-1 tvg-logo="https://static.epg.best/co/ClaroSports.co.png" ,DEP | Claro Sports SD
+http://home-playtv.com:8080/Rmora01/PJNCN/456657
+#EXTINF:-1 tvg-logo="http://www.iptvforall.net/newlogo/c_more_se_golf_hd.png" ,C More Golf
+http://home-playtv.com:8080/Rmora01/PJNCN/62613
+#EXTINF:-1 tvg-logo="" ,DK-- TV2 SPORT
+http://home-playtv.com:8080/Rmora01/PJNCN/58545
+#EXTINF:-1 tvg-logo="http://www.vod-logo.net/photos/f8901a528a47e1da157bab004007c625.jpg" ,Extreme Sports
+http://home-playtv.com:8080/Rmora01/PJNCN/64661
+#EXTINF:-1 tvg-logo="https://www.gran-turismo.com/gtsport/decal/6124914264514790928_1.png" ,GR: nova sports 2 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/185094
+#EXTINF:-1 tvg-logo="https://img.kooora.com/?i=katkotati%2Flogo_chaine%2Fitalie%2Fsky+sport+serie+a+hd.gif" ,IT | Sky Sport Serie A HD
+http://home-playtv.com:8080/Rmora01/PJNCN/55728
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png" ,NL | FOX Sports 3 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/55744
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png" ,NL | FOX Sports 6 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/55747
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png" ,NL | FOX Sports 1 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/55742
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Fox_Sports_Netherlands_Logo.png" ,NL | FOX Sports 4 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/55745
+#EXTINF:-1 tvg-logo="" ,PL-- Polsat Sport Fight FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/62909
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" ,PT | Sport TV 3
+http://home-playtv.com:8080/Rmora01/PJNCN/40681
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2d/bb/e0/2dbbe0146bf16c7574c1e84680fab1e9.png" ,RO | Digi Sport 2 
+http://home-playtv.com:8080/Rmora01/PJNCN/58534
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2d/bb/e0/2dbbe0146bf16c7574c1e84680fab1e9.png" ,RO | Digi Sport 3
+http://home-playtv.com:8080/Rmora01/PJNCN/58535
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2d/bb/e0/2dbbe0146bf16c7574c1e84680fab1e9.png" ,RO-- Digi Sport 4
+http://home-playtv.com:8080/Rmora01/PJNCN/58536
+#EXTINF:-1 tvg-logo="" ,RO-- Look Sport
+http://home-playtv.com:8080/Rmora01/PJNCN/62910
+#EXTINF:-1 tvg-logo="https://www.sportradar.com/wp-content/uploads/sites/21/2014/08/viasatsport.png" ,Ru- Viasat Sport
+http://home-playtv.com:8080/Rmora01/PJNCN/64660
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/6/6f/Sportklubrshrsl.png" ,Sport klub HD
+http://home-playtv.com:8080/Rmora01/PJNCN/62920
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000156744469/912f195dd5d03c43d4582ae73803d7a1_400x400.jpeg" ,Arena Sport 3 SR
+http://home-playtv.com:8080/Rmora01/PJNCN/58278
+#EXTINF:-1 tvg-logo="https://www.bowlingverenigingtilburg.nl/images/Ziggo-Sport-logo-2015.png" ,ZIGGO SPORT EXTRA 1
+http://home-playtv.com:8080/Rmora01/PJNCN/64644
+#EXTINF:-1 tvg-logo="https://www.bowlingverenigingtilburg.nl/images/Ziggo-Sport-logo-2015.png" ,Ziggo Sport Extra2
+http://home-playtv.com:8080/Rmora01/PJNCN/185082
+#EXTINF:-1 tvg-logo="http://mdprime.live:8080/images/e573be7255639ef810482a8f31ec209b.png" ,PT | A Bola TV 
+http://home-playtv.com:8080/Rmora01/PJNCN/50127
+#EXTINF:-1 tvg-logo="http://mdprime.live:8080/images/d7e912687f40d9dd9edf3eef713f1dc9.png" ,PT | Canal 11 
+http://home-playtv.com:8080/Rmora01/PJNCN/50126
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" ,PT | Eleven Sports 1 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/47447
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" ,PT | Eleven Sports 2 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/47448
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" ,PT | Eleven Sports 3 HD 
+http://home-playtv.com:8080/Rmora01/PJNCN/47449
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" ,PT | Eleven Sports 4 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/47450
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" ,PT | Eleven Sports 5 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/47451
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" ,PT | Eleven Sports 6 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/47452
+#EXTINF:-1 tvg-logo="http://mdprime.live:8080/images/89d582b7a776e314399e166dfec88980.png" ,PT | EuroSport 1 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/47454
+#EXTINF:-1 tvg-logo="http://conectweb.site/canais%20pt/Kombat%20Sport%20logo.png" ,PT | Kombat Sport HD
+http://home-playtv.com:8080/Rmora01/PJNCN/47456
+#EXTINF:-1 tvg-logo="http://portocanal.sapo.pt/uploads/defaults/default-16x9.png" ,PT | Porto Canal HD
+http://home-playtv.com:8080/Rmora01/PJNCN/47457
+#EXTINF:-1 tvg-logo="http://mdprime.live:8080/images/b4b800fad169d2fd207778581c67dcd9.png" ,PT | Sporting TV
+http://home-playtv.com:8080/Rmora01/PJNCN/47453
+#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2017/08/eredivisie-premier-league-football-590x270.jpg" ,ESPN 1 EREDIVISIE
+http://home-playtv.com:8080/Rmora01/PJNCN/216454
+#EXTINF:-1 tvg-logo="https://www.saudiarabiangp.com/wp-content/uploads/2021/08/Tickets-EN.jpg" ,Fórmula 1 GP Arabia Saudita 2021 *s97*
+http://home-playtv.com:8080/movie/Rmora01/PJNCN/232708.mp4
+#EXTINF:-1 tvg-logo="https://soymotor.com/sites/default/files/styles/mega/public/imagenes/noticia/podio-gp-abu-dabi-soymotor.jpg?itok=ZgWOnFor" ,Fórmula 1 GP Abu Dhabi 2021 *s97*
+http://home-playtv.com:8080/movie/Rmora01/PJNCN/232709.mp4
+#EXTINF:-1 tvg-logo="http://cpi4u.com:45862/images/de9174e014d0a6e2bab4ab252c979503.jpg" ,CO | Win Sports Op 1
+http://home-playtv.com:8080/Rmora01/PJNCN/485515
+#EXTINF:-1 tvg-logo="http://th4.online:2095/images/5f6f9f7fb0ac90fc753b38df920420c3.png" ,CO | Win Sports + VIP 1
+http://home-playtv.com:8080/Rmora01/PJNCN/516921
+#EXTINF:-1 tvg-logo="" ,CO | Win Sports + HD Op 1
+http://home-playtv.com:8080/Rmora01/PJNCN/516929
+#EXTINF:-1 tvg-logo="" ,CO | Win Sports +
+http://home-playtv.com:8080/Rmora01/PJNCN/516931
+#EXTINF:-1 tvg-logo="" ,CO | Win Sports 
+http://home-playtv.com:8080/Rmora01/PJNCN/516932
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NSj99bp.png" ,CO | WIN Sports +
+http://home-playtv.com:8080/Rmora01/PJNCN/516933
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NSj99bp.png" ,CO | WIN Sports + FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/516934
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NSj99bp.png" ,CO | WIN Sports + HD
+http://home-playtv.com:8080/Rmora01/PJNCN/516935
+#EXTINF:-1 tvg-logo="" ,SuperSport Tennis
+http://home-playtv.com:8080/Rmora01/PJNCN/469491
+#EXTINF:-1 tvg-logo="" ,SuperSport Rugby
+http://home-playtv.com:8080/Rmora01/PJNCN/233403
+#EXTINF:-1 tvg-logo="" ,SuperSport Motorsport
+http://home-playtv.com:8080/Rmora01/PJNCN/233405
+#EXTINF:-1 tvg-logo="" ,SuperSport MaXimo 1
+http://home-playtv.com:8080/Rmora01/PJNCN/233406
+#EXTINF:-1 tvg-logo="" ,SuperSport Grandstand
+http://home-playtv.com:8080/Rmora01/PJNCN/233407
+#EXTINF:-1 tvg-logo="" ,SuperSport Golf
+http://home-playtv.com:8080/Rmora01/PJNCN/233408
+#EXTINF:-1 tvg-logo="" ,SuperSport Cricket
+http://home-playtv.com:8080/Rmora01/PJNCN/233417
+#EXTINF:-1 tvg-logo="" ,SuperSport Blitz
+http://home-playtv.com:8080/Rmora01/PJNCN/233418
+#EXTINF:-1 tvg-logo="" ,SuperSport Action
+http://home-playtv.com:8080/Rmora01/PJNCN/233419
+#EXTINF:-1 tvg-logo="" ,SuperSport Variety 4
+http://home-playtv.com:8080/Rmora01/PJNCN/233423
+#EXTINF:-1 tvg-logo="" ,SuperSport Variety 3
+http://home-playtv.com:8080/Rmora01/PJNCN/233424
+#EXTINF:-1 tvg-logo="" ,SuperSport Variety 2
+http://home-playtv.com:8080/Rmora01/PJNCN/233425
+#EXTINF:-1 tvg-logo="" ,SuperSport Variety 1
+http://home-playtv.com:8080/Rmora01/PJNCN/233426
+#EXTINF:-1 tvg-logo="" ,SuperSport Football
+http://home-playtv.com:8080/Rmora01/PJNCN/233427
+#EXTINF:-1 tvg-logo="" ,SuperSport La Liga
+http://home-playtv.com:8080/Rmora01/PJNCN/233428
+#EXTINF:-1 tvg-logo="" ,SuperSport Premier League
+http://home-playtv.com:8080/Rmora01/PJNCN/233429
+#EXTINF:-1 tvg-logo="" ,SuperSport PSL
+http://home-playtv.com:8080/Rmora01/PJNCN/233430
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" ,DEP | TUDN HD USA  ►℗
+http://home-playtv.com:8080/Rmora01/PJNCN/185148
+#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/06c9460347bd5f1229d48626ba513feb.png" ,DEP | TUDN USA FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/242045
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" ,DEP | TUDN USA
+http://home-playtv.com:8080/Rmora01/PJNCN/166029
+#EXTINF:-1 tvg-logo="http://svtv.xyz:8000/images/996f778d08234b3fb00ad0f9fcf6115b.png" ,USA | TUDN mexico SD
+http://home-playtv.com:8080/Rmora01/PJNCN/218637
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra1n_c.png" ,TUDNxtra 1 
+http://home-playtv.com:8080/Rmora01/PJNCN/10212
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra10n_c.png" ,TUDNxtra 10(G)
+http://home-playtv.com:8080/Rmora01/PJNCN/10213
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra11n_c.png" ,TUDNxtra 11 (G)
+http://home-playtv.com:8080/Rmora01/PJNCN/10214
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra2n_c.png" ,TUDNxtra 2
+http://home-playtv.com:8080/Rmora01/PJNCN/10215
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra3n_c.png" ,TUDNxtra 3
+http://home-playtv.com:8080/Rmora01/PJNCN/10216
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra4n_c.png" ,TUDNxtra 4 
+http://home-playtv.com:8080/Rmora01/PJNCN/10217
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra5n_c.png" ,TUDNxtra 5 
+http://home-playtv.com:8080/Rmora01/PJNCN/10218
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra6_c.png" ,TUDNxtra 6 
+http://home-playtv.com:8080/Rmora01/PJNCN/10219
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra7n_c.png" ,TUDNxtra 7 
+http://home-playtv.com:8080/Rmora01/PJNCN/10220
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra8n_c.png" ,TUDNxtra 8 
+http://home-playtv.com:8080/Rmora01/PJNCN/10221
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/TUDNxtra9n_c.png" ,TUDNxtra 9 
+http://home-playtv.com:8080/Rmora01/PJNCN/10222
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/262ff4afeb4bfa5584905a6e5f2d5533.gif" ,Zona Tudn
+http://home-playtv.com:8080/Rmora01/PJNCN/456662
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FbT8oqo.png" ,TUDN MX  HD
+http://home-playtv.com:8080/Rmora01/PJNCN/456663
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FbT8oqo.png" ,DP| Zona TUDN USA
+http://home-playtv.com:8080/Rmora01/PJNCN/456664

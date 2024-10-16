@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://i.imgur.com/q5E6kPJ.png" group-title="" ,GT | Claro Sports Guatemala
+http://home-playtv.com:8080/Rmora01/PJNCN/179735
+#EXTINF:-1 tvg-logo="https://www.chapintv.com/wp-content/uploads/2020/10/tn23-logo-sin-fondo.png" ,GT | TN23 
+http://home-playtv.com:8080/Rmora01/PJNCN/21936
+#EXTINF:-1 tvg-logo="https://eegsa.com/wp-content/uploads/2020/03/TV-Azteca-Guate.png" ,GT | Azteca Guate 
+http://home-playtv.com:8080/Rmora01/PJNCN/21938
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-7-nacional_m.png" ,GT | Canal 7 
+http://home-playtv.com:8080/Rmora01/PJNCN/21940
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-13-guatemala_m.png" ,GT | Canal  13
+http://home-playtv.com:8080/Rmora01/PJNCN/109096
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Canal3.png" ,GT | Canal 3
+http://home-playtv.com:8080/Rmora01/PJNCN/109097
+#EXTINF:-1 tvg-logo="https://overseas.mofa.go.kr/upload/se2/5b78dbec-7ffd-475e-b97e-b5b1a81a9954.png" ,GT | Guatevision
+http://home-playtv.com:8080/Rmora01/PJNCN/109098
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xl2bz8I.png" ,Tigo Sports +| Guatemala
+http://home-playtv.com:8080/Rmora01/PJNCN/449602
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzT2f1gy/TIGO.png" ,GUAT ®|  TIGO SPORTS HD
+http://home-playtv.com:8080/Rmora01/PJNCN/486394
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzT2f1gy/TIGO.png" ,GUAT ®|  TIGO SPORTS SD
+http://home-playtv.com:8080/Rmora01/PJNCN/486395
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FNIb7Cr.png" ,GUA | Canal Antigua
+http://home-playtv.com:8080/Rmora01/PJNCN/450204

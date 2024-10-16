@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Canal_10_Nicaragua.png" group-title="" ,NIC | Canal 10 
+http://home-playtv.com:8080/Rmora01/PJNCN/12873
+#EXTINF:-1 tvg-logo="https://www.vostv.com.ni/static/images/logo-footer.png" ,NIC | Canal 14
+http://home-playtv.com:8080/Rmora01/PJNCN/12875
+#EXTINF:-1 tvg-logo="https://canal2tv.com/wp-content/uploads/2020/06/LOGOB-e1592297058783.png" ,NIC | Canal 2
+http://home-playtv.com:8080/Rmora01/PJNCN/12876
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_4_NIC.png" ,NIC | Canal 4 
+http://home-playtv.com:8080/Rmora01/PJNCN/12877
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Canal_6_Nicaraguense.png" ,NIC | Canal 6 
+http://home-playtv.com:8080/Rmora01/PJNCN/12878
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/f/f8/Telenica-canal-8.png" ,NIC | Canal 8 
+http://home-playtv.com:8080/Rmora01/PJNCN/12879
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Viva_Nicaragua_Canal_13.png" ,NIC | Canal 13 Viva Nicaragua 
+http://home-playtv.com:8080/Rmora01/PJNCN/41608
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6a/Nicavision1993.png/revision/latest?cb=20180426154048" ,NI: CANAL 12
+http://home-playtv.com:8080/Rmora01/PJNCN/514149

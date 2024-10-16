@@ -1,0 +1,461 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/397px-Logo_Golden_TV.svg.png" group-title="" ,CINE | Golden SD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/242027
+#EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/golden-premier-300x300.png" ,CINE | Golden Premier FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/222829
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/6132214100feb70004beb7ca.png" ,CINE | HBO SD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/198760
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/6132214100feb70004beb7ca.png" ,CINE | HBO HD
+http://home-playtv.com:8080/Rmora01/PJNCN/242029
+#EXTINF:-1 tvg-logo="https://companieslogo.com/img/orig/PARA_BIG-d8040ab9.png?t=1649781882" ,CINE | Paramount Channel SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/242033
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" ,CINE | STAR Channel HD MX Encoder
+http://home-playtv.com:8080/Rmora01/PJNCN/198735
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png" ,CINE | Studio Universal SD
+http://home-playtv.com:8080/Rmora01/PJNCN/222826
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Universal_Crime_2021.png/revision/latest/scale-to-width-down/250?cb=20220102014712&path-prefix=es" ,CINE | Universal Crime FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/185163
+#EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" ,CINE | Universal Premiere 
+http://home-playtv.com:8080/Rmora01/PJNCN/236380
+#EXTINF:-1 tvg-logo="https://static.epg.best/co/ClaroCinema.co.png" ,CINE | Claro Cinema
+http://home-playtv.com:8080/Rmora01/PJNCN/276307
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" ,CINE | HBO Plus FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/198753
+#EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" ,CINE | Universal Cinema FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/185152
+#EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ae-logo.png" ,CINE | A&E SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/186628
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/640px-AXN_logo_%282015%29.svg.png" ,CINE | AXN FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/241995
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" ,CINE | Cinemax FHD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/242025
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/640px-SpaceLogo.svg.png" ,CINE | Space FHD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/19454
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png" ,CINE | Studio Universal FHD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/241984
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Universal_Reality.png/revision/latest/scale-to-width-down/250?cb=20211201172008" ,CINE | Universal Reality FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/198741
+#EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ae-logo.png" ,CINE | A&E NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/241996
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" ,CINE | AMC SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/159149
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" ,CINE | Cine Latino 
+http://home-playtv.com:8080/Rmora01/PJNCN/55511
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Cinecanal_1995.png/revision/latest?cb=20191214040757&path-prefix=es" ,CINE | CineCanal HD
+http://home-playtv.com:8080/Rmora01/PJNCN/9494
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" ,CINE | De Película 
+http://home-playtv.com:8080/Rmora01/PJNCN/53095
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" ,CINE | De Película SD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/9506
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/De_Pel%C3%ADcula_Cl%C3%A1sico.png" ,CINE | De Película Classic@
+http://home-playtv.com:8080/Rmora01/PJNCN/53090
+#EXTINF:-1 tvg-logo="http://i.ibb.co/hX5Tjph/golden-edge.png" ,CINE | Golden Edge FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/9505
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es" ,CINE | Golden Plus HD 
+http://home-playtv.com:8080/Rmora01/PJNCN/9496
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png" ,CINE | HBO Family FHD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/73200
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png" ,CINE | HBO Family FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/12854
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/6132214100feb70004beb7ca.png" ,CINE | HBO NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/54282
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" ,CINE | HBO Mundi HD
+http://home-playtv.com:8080/Rmora01/PJNCN/19547
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" ,CINE | HBO Plus 
+http://home-playtv.com:8080/Rmora01/PJNCN/73199
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" ,CINE | HBO Plus SD 
+http://home-playtv.com:8080/Rmora01/PJNCN/19581
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" ,CINE | HBO Pop SD 
+http://home-playtv.com:8080/Rmora01/PJNCN/159124
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" ,CINE | HBO Signature HD LAT
+http://home-playtv.com:8080/Rmora01/PJNCN/167659
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" ,CINE | HBO Xtreme HD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/54164
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" ,CINE | HBO Xtreme FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/19548
+#EXTINF:-1 tvg-logo="https://companieslogo.com/img/orig/PARA_BIG-d8040ab9.png?t=1649781882" ,CINE | Paramount Channel HD
+http://home-playtv.com:8080/Rmora01/PJNCN/54277
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png" ,CINE | Paramount Network NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/19556
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/SHO-E.PNG" ,CINE | Showtime HD latino
+http://home-playtv.com:8080/Rmora01/PJNCN/159148
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/640px-SpaceLogo.svg.png" ,CINE | Space SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/159153
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.png" ,CINE | Starz HD latino
+http://home-playtv.com:8080/Rmora01/PJNCN/159130
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/SYFY_Logo_2020.png" ,CINE | SyFy SD
+http://home-playtv.com:8080/Rmora01/PJNCN/19561
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/SYFY_Logo_2020.png" ,CINE | SyFy HD
+http://home-playtv.com:8080/Rmora01/PJNCN/54240
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png" ,CINE | TBS HD
+http://home-playtv.com:8080/Rmora01/PJNCN/19562
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" ,CINE | TNT LAT FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/9495
+#EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_comedy_hero.png" ,CINE | Universal Comedy FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/185166
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" ,CINE | HBO Pop
+http://home-playtv.com:8080/Rmora01/PJNCN/185169
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" ,CINE | HBO Xtreme SD
+http://home-playtv.com:8080/Rmora01/PJNCN/185170
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" ,CINE | HBO Plus HD
+http://home-playtv.com:8080/Rmora01/PJNCN/185172
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" ,CINE | HBO Xtreme FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/185175
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/397px-Logo_Golden_TV.svg.png" ,CINE | Golden SD
+http://home-playtv.com:8080/Rmora01/PJNCN/9504
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" ,CINE | Sony 
+http://home-playtv.com:8080/Rmora01/PJNCN/199523
+#EXTINF:-1 tvg-logo="https://mark.trademarkia.com/services/logo.ashx?sid=88914626" ,CINE | Cine Sureño @
+http://home-playtv.com:8080/Rmora01/PJNCN/199527
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TopCine_295x98.png" ,CINE | Top Cine @
+http://home-playtv.com:8080/Rmora01/PJNCN/199528
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" ,CINE | HBO Plus @
+http://home-playtv.com:8080/Rmora01/PJNCN/198755
+#EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" ,CINE | Universal Premiere FHD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/198730
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png" ,CINE | HBO Family sd
+http://home-playtv.com:8080/Rmora01/PJNCN/185178
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" ,CINE | STAR Channel FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/198736
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-dhe-logo.png" ,CINE | Canal DHE FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/225716
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ycplsXvYhGY/W6lpwe5KAwI/AAAAAAAAAJ4/DD8JFcw3B-8w2ExQIgpIZRwODSZrWMaJQCPcBGAYYCw/s1600/hbo2.png" ,CINE | HBO 2 SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/286151
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" ,CINE | Universal Channel FHD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/439738
+#EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" ,CINE | Universal Premiere FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/439739
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" ,CINE | TNT LAT FHD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/439741
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" ,CINE | STAR Channel FHD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/439744
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/6132214100feb70004beb7ca.png" ,CINE | HBO SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/439749
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ycplsXvYhGY/W6lpwe5KAwI/AAAAAAAAAJ4/DD8JFcw3B-8w2ExQIgpIZRwODSZrWMaJQCPcBGAYYCw/s1600/hbo2.png" ,CINE | HBO 2 FHD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/439750
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Cinecanal_1995.png/revision/latest?cb=20191214040757&path-prefix=es" ,CINE | CineCanal FHD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/439760
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" ,CINE | AMC FHD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/439762
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" ,CINE | TNT SD
+http://home-playtv.com:8080/Rmora01/PJNCN/439765
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/6132214100feb70004beb7ca.png" ,CINE | HBO SD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/439768
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/640px-AXN_logo_%282015%29.svg.png" ,CINE | AXN SD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/439779
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Universal_Reality.png/revision/latest/scale-to-width-down/250?cb=20211201172008" ,CINE | Universal Reality NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/439782
+#EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" ,CINE | Universal Premiere FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/439785
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png" ,CINE | Paramount Network FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/439787
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png" ,CINE | HBO Family
+http://home-playtv.com:8080/Rmora01/PJNCN/439797
+#EXTINF:-1 tvg-logo="http://i.ibb.co/hX5Tjph/golden-edge.png" ,CINE | Golden Edge SD
+http://home-playtv.com:8080/Rmora01/PJNCN/439804
+#EXTINF:-1 tvg-logo="https://companieslogo.com/img/orig/PARA_BIG-d8040ab9.png?t=1649781882" ,CINE | Paramount Channel SD
+http://home-playtv.com:8080/Rmora01/PJNCN/439808
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" ,CINE | STAR Channel SD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/439809
+#EXTINF:-1 tvg-logo="" ,CINE | TCM SD
+http://home-playtv.com:8080/Rmora01/PJNCN/439810
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" ,CINE | Golden Premier 2
+http://home-playtv.com:8080/Rmora01/PJNCN/453359
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png/revision/latest?cb=20161218051332" ,CINE | Panico FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/453503
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Multipremier_logo.svg.png/revision/latest?cb=20170909165432" ,CINE | Multipremier HD
+http://home-playtv.com:8080/Rmora01/PJNCN/453505
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png" ,CINE | MultiCinema
+http://home-playtv.com:8080/Rmora01/PJNCN/453506
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/M%C3%B3rbido_TV.png/revision/latest?cb=20210527220851&path-prefix=es" ,CINE | Morbido TV HD
+http://home-playtv.com:8080/Rmora01/PJNCN/453507
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" ,CINE | Sony Movies HD
+http://home-playtv.com:8080/Rmora01/PJNCN/469055
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" ,CINE | Golden Premiere 2 NORTE HD
+http://home-playtv.com:8080/Rmora01/PJNCN/469057
+#EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/golden-premier-300x300.png" ,CINE | Golden Premiere NORTE HD
+http://home-playtv.com:8080/Rmora01/PJNCN/469058
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/EUROPA_EUROPA.png" ,CINE | Europa Europa
+http://home-playtv.com:8080/Rmora01/PJNCN/473708
+#EXTINF:-1 tvg-logo="https://i.imgur.com/heJNpjQ.png" ,CINE | Orbit TV
+http://home-playtv.com:8080/Rmora01/PJNCN/558324
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9jprbpv.png" ,CINE | Mega Cine TV
+http://home-playtv.com:8080/Rmora01/PJNCN/558325
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Cinecanal_1995.png/revision/latest?cb=20191214040757&path-prefix=es" ,CINE | CineCanal SD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/159151
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Cinecanal_1995.png/revision/latest?cb=20191214040757&path-prefix=es" ,CINE | CineCanal FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/19475
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" ,CINE | Cinemax SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/54167
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png" ,CINE | De Película Plus
+http://home-playtv.com:8080/Rmora01/PJNCN/53091
+#EXTINF:-1 tvg-logo="http://revistamomentos.co/wp-content/uploads/2017/06/Logo-Film-Arts.png" ,CINE | Film & Arts HD
+http://home-playtv.com:8080/Rmora01/PJNCN/19535
+#EXTINF:-1 tvg-logo="http://i.ibb.co/hX5Tjph/golden-edge.png" ,CINE | Golden Edge 
+http://home-playtv.com:8080/Rmora01/PJNCN/9349
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es" ,CINE | Golden Plus @
+http://home-playtv.com:8080/Rmora01/PJNCN/53089
+#EXTINF:-1 tvg-logo="https://afiliados.televisa-networks.com/wp-content/uploads/2017/07/golden-premier-300x300.png" ,CINE | Golden Premier
+http://home-playtv.com:8080/Rmora01/PJNCN/67425
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-ycplsXvYhGY/W6lpwe5KAwI/AAAAAAAAAJ4/DD8JFcw3B-8w2ExQIgpIZRwODSZrWMaJQCPcBGAYYCw/s1600/hbo2.png" ,CINE | HBO 2 HD 
+http://home-playtv.com:8080/Rmora01/PJNCN/159126
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" ,CINE | HBO Mundi SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/158467
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" ,CINE | HBO Plus AR
+http://home-playtv.com:8080/Rmora01/PJNCN/159125
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" ,CINE | HBO Pop FHD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/19626
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" ,CINE | HBO Signature SD
+http://home-playtv.com:8080/Rmora01/PJNCN/19582
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/640px-SpaceLogo.svg.png" ,CINE | Space NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/54168
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png" ,CINE | Studio Universal HD
+http://home-playtv.com:8080/Rmora01/PJNCN/19572
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" ,CINE | TCM  
+http://home-playtv.com:8080/Rmora01/PJNCN/19563
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" ,CINE | TNT 
+http://home-playtv.com:8080/Rmora01/PJNCN/158465
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" ,CINE | AMC FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/186852
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/640px-AXN_logo_%282015%29.svg.png" ,CINE | AXN HD
+http://home-playtv.com:8080/Rmora01/PJNCN/53047
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" ,CINE | Universal TV HD 
+http://home-playtv.com:8080/Rmora01/PJNCN/184477
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" ,CUL | Animal Planet HD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/229242
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/449px-Science_Channel_logo.svg.png" ,CUL | Discovery Science FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/36466
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" ,CUL | Discovery TLC FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/242009
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" ,CUL | Discovery Turbo HD
+http://home-playtv.com:8080/Rmora01/PJNCN/54283
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/458px-History_Logo.svg.png" ,CUL | History Channel HD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/242013
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/5a0c74bd9642de34b6b65cf5.png" ,CUL | Nat Geo SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/242015
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" ,CUL | Discovery TLC  
+http://home-playtv.com:8080/Rmora01/PJNCN/268886
+#EXTINF:-1 tvg-logo="https://static.epg.best/ca/LoveNature.ca.png" ,CUL | Love Nature
+http://home-playtv.com:8080/Rmora01/PJNCN/276310
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" ,CUL | Discovery Channel Lat
+http://home-playtv.com:8080/Rmora01/PJNCN/186572
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" ,CUL | Discovery Home & Health FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/242008
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" ,CUL | Animal Planet SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/276193
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" ,CUL | Discovery Channel SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/93442
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" ,CUL | Discovery Channel FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/9520
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/640px-World_Discovery_HD_logo.svg.png" ,CUL | Discovery World FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/53077
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/640px-World_Discovery_HD_logo.svg.png" ,CUL | Discovery World SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/9516
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" ,CUL | History 2 FHD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/105685
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/458px-History_Logo.svg.png" ,CUL | History FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/53074
+#EXTINF:-1 tvg-logo="http://i.ibb.co/RYvrN4k/Investigation-Discovery.png" ,CUL | Investigation Discovery SD
+http://home-playtv.com:8080/Rmora01/PJNCN/53051
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s72449_h15_aa.png" ,CUL | NAT GEO Mundo 
+http://home-playtv.com:8080/Rmora01/PJNCN/54154
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" ,CUL | Discovery TLC HD
+http://home-playtv.com:8080/Rmora01/PJNCN/199201
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/976px-History_Logo.svg.png" ,CUL | History Channel SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/186570
+#EXTINF:-1 tvg-logo="http://i.ibb.co/RYvrN4k/Investigation-Discovery.png" ,CUL | Investigation Discovery SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/36458
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" ,CUL | Animal Planet HD op2
+http://home-playtv.com:8080/Rmora01/PJNCN/9517
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" ,CUL | Discovery Home & Health LAT
+http://home-playtv.com:8080/Rmora01/PJNCN/273322
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" ,CUL | Discovery Home & Health FHD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/439759
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" ,CUL | History 2 SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/439767
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" ,CUL | Discovery Theater FHD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/439786
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/5a0c74bd9642de34b6b65cf5.png" ,CUL | Nat Geo FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/439788
+#EXTINF:-1 tvg-logo="http://i.ibb.co/RYvrN4k/Investigation-Discovery.png" ,CUL | Investigation Discovery FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/439789
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" ,CUL | Animal Planet NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/439824
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/SaberMas_295x98.png" ,CUL | Saber Mas HD
+http://home-playtv.com:8080/Rmora01/PJNCN/453808
+#EXTINF:-1 tvg-logo="https://tvepg.eu/img/spain/logo/canal_cocina.png" ,CUL | Canal Cocina
+http://home-playtv.com:8080/Rmora01/PJNCN/453809
+#EXTINF:-1 tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/discovery-familia_c.png" ,CUL | Discovery Familia 
+http://home-playtv.com:8080/Rmora01/PJNCN/10769
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" ,CUL | Discovery Home & Health SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/53078
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" ,CUL | Discovery Turbo SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/19505
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png" ,CUL | DW América
+http://home-playtv.com:8080/Rmora01/PJNCN/181177
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" ,CUL | HGTV MX
+http://home-playtv.com:8080/Rmora01/PJNCN/178146
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" ,CUL | History 2 HD
+http://home-playtv.com:8080/Rmora01/PJNCN/19542
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" ,CUL | NAT GEO Wild SD
+http://home-playtv.com:8080/Rmora01/PJNCN/36470
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" ,CUL | Discovery TLC HD MEX
+http://home-playtv.com:8080/Rmora01/PJNCN/19596
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/DiscoveryChannel.us.png" ,CUL | Discovery en Español  HD
+http://home-playtv.com:8080/Rmora01/PJNCN/452236
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" ,CUL | Natgeo Wild
+http://home-playtv.com:8080/Rmora01/PJNCN/452237
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" ,CUL | HGTV HD
+http://home-playtv.com:8080/Rmora01/PJNCN/452238
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,EN | SONY Novelas
+http://home-playtv.com:8080/Rmora01/PJNCN/276161
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,EN | SONY Comedias
+http://home-playtv.com:8080/Rmora01/PJNCN/276162
+#EXTINF:-1 tvg-logo="https://sony-canal.com/sites/g/files/objgke201/files/styles/discover_menu_icon/public/2022-11/menu_icon_12123.png?itok=OLBAVyoE" ,EN | SONY Competencias
+http://home-playtv.com:8080/Rmora01/PJNCN/218342
+#EXTINF:-1 tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/02/sonynovelas.jpg" ,SONY NOVELAS
+http://home-playtv.com:8080/Rmora01/PJNCN/218340
+#EXTINF:-1 tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/ae-logo.png" ,EN | A&E HD
+http://home-playtv.com:8080/Rmora01/PJNCN/9547
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/494px-AtreseriesLogo.svg.png" ,EN | A3series 
+http://home-playtv.com:8080/Rmora01/PJNCN/53059
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png" ,EN | Comedy Central SD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/53049
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" ,EN | Distrito Comedia SD
+http://home-playtv.com:8080/Rmora01/PJNCN/9565
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" ,EN | Distrito Comedia HD 
+http://home-playtv.com:8080/Rmora01/PJNCN/9412
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/e-entertainment-television-logo-EF3AA17F85-seeklogo.com.png" ,EN | E! Entertainment SD
+http://home-playtv.com:8080/Rmora01/PJNCN/9405
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" ,EN | El Gourmet FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/9408
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/494px-AtreseriesLogo.svg.png" ,EN | A3Series
+http://home-playtv.com:8080/Rmora01/PJNCN/171484
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" ,EN | Food Network HD
+http://home-playtv.com:8080/Rmora01/PJNCN/9554
+#EXTINF:-1 tvg-logo="https://tvcorport.weebly.com/uploads/3/1/5/6/31565181/6772322_orig.png" ,EN | Gala TV 
+http://home-playtv.com:8080/Rmora01/PJNCN/54962
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/480px-Lifetime_logo17.svg.png" ,EN | Lifetime  SD
+http://home-playtv.com:8080/Rmora01/PJNCN/19536
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" ,EN | TNT Series SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/53054
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/526px-Warner2018LA.png" ,EN | Warner TV SD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/53044
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/UNVSO.png" ,EN | NBC Universo 
+http://home-playtv.com:8080/Rmora01/PJNCN/185096
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/UNVSO.png" ,EN | NBC Universo
+http://home-playtv.com:8080/Rmora01/PJNCN/199524
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Kanal_D_Drama_%28Latin_America%29.png/revision/latest?cb=20200317052444&path-prefix=es" ,EN | Kanal D Drama FHD ⭐️
+http://home-playtv.com:8080/Rmora01/PJNCN/183185
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/494px-AtreseriesLogo.svg.png" ,EN | A3Series
+http://home-playtv.com:8080/Rmora01/PJNCN/211198
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/%C2%A1HOLA%21TVlogo.jpg/640px-%C2%A1HOLA%21TVlogo.jpg" ,EN | Hola TV FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/9397
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" ,EN | FX SD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/9546
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" ,EN | TNT Series FHD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/9560
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/680f90a5-35e4-4f31-b1b6-ee9b3e8fda12/ddjoa2a-9fdc7d3e-1cc7-46c3-962c-2a85c01ea830.png/v1/fill/w_1024,h_512,strp/trutv_white_and_green_logo_by_teamrocketdjvgboy123_ddjoa2a-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvNjgwZjkwYTUtMzVlNC00ZjMxLWIxYjYtZWU5YjNlOGZkYTEyXC9kZGpvYTJhLTlmZGM3ZDNlLTFjYzctNDZjMy05NjJjLTJhODVjMDFlYTgzMC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.TJlpucKbGoyDzSXcbNQm7xXwjWQ68wnc7Dx4Yl5I_iw" ,EN | Adult Swim
+http://home-playtv.com:8080/Rmora01/PJNCN/19466
+#EXTINF:-1 tvg-logo="http://pbs.twimg.com/media/DlMqfLZX4AEw88p.png" ,EN | El Garage SD 
+http://home-playtv.com:8080/Rmora01/PJNCN/19529
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/15/88/96/1588966d7fb28da12825edaac1ddd736.png" ,EN | Quiero Música
+http://home-playtv.com:8080/Rmora01/PJNCN/19557
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" ,EN | Food Network  FHD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/19583
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" ,EN | Estrella TV
+http://home-playtv.com:8080/Rmora01/PJNCN/51169
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/600px-Sony_Channel_Logo.png" ,EN | Sony Channel HD
+http://home-playtv.com:8080/Rmora01/PJNCN/53039
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/526px-Warner2018LA.png" ,EN | Warner TV FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/53040
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" ,EN | Glitz 
+http://home-playtv.com:8080/Rmora01/PJNCN/54399
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" ,EN | FX HD
+http://home-playtv.com:8080/Rmora01/PJNCN/167656
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" ,EN | El Gourmet HD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/186629
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1699px-Antena_3_Internacional_logo_2017.svg.png" ,EN | Antena 3 Internacional
+http://home-playtv.com:8080/Rmora01/PJNCN/211202
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/600px-Sony_Channel_Logo.png" ,EN | Sony SD
+http://home-playtv.com:8080/Rmora01/PJNCN/211310
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2560px-Comedy_Central_2018.svg.png" ,EN | Comedy Central FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/241997
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/e-entertainment-television-logo-EF3AA17F85-seeklogo.com.png" ,EN | E! Entertaiment FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/241998
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" ,EN | FX FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/242001
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/480px-Lifetime_logo17.svg.png" ,EN | Lifetime  FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/242002
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Unicable2018-2.png/revision/latest/scale-to-width-down/175?cb=20210514025931&path-prefix=es" ,EN | Unicable FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/242004
+#EXTINF:-1 tvg-logo="http://51.222.43.170:25461/images/40e685603a0d89585dd0325da7ee6ef4.png" ,EN | Pasiones SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/242017
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/e-entertainment-television-logo-EF3AA17F85-seeklogo.com.png" ,EN | E! Entertainment FHD SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/242054
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" ,EN | ETC TV
+http://home-playtv.com:8080/Rmora01/PJNCN/394826
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/526px-Warner2018LA.png" ,EN | Warner TV SUR
+http://home-playtv.com:8080/Rmora01/PJNCN/439740
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" ,EN | TNT Series FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/439780
+#EXTINF:-1 tvg-logo="http://51.222.43.170:25461/images/40e685603a0d89585dd0325da7ee6ef4.png" ,EN | Pasiones FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/439781
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/600px-Sony_Channel_Logo.png" ,EN | Sony Channel FHD NORTE
+http://home-playtv.com:8080/Rmora01/PJNCN/439783
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f68c41ede02cb91875fe_maschic.png" ,EN | Maschic SD*
+http://home-playtv.com:8080/Rmora01/PJNCN/439827
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" ,EN | Distrito comedia
+http://home-playtv.com:8080/Rmora01/PJNCN/469064
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" ,EN | TNT Novelas
+http://home-playtv.com:8080/Rmora01/PJNCN/542720
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/2000px-Movistar_Estrenos.svg.png" ,MOVISTAR ESTRENOS HD
+http://home-playtv.com:8080/Rmora01/PJNCN/203682
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1280px-Movistar_Cine_Espa%C3%B1ol.svg.png" ,MOVISTAR CINE ESPAÑOL FHD
+http://home-playtv.com:8080/Rmora01/PJNCN/203694
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1200px-Movistar_Drama.svg.png" ,MOVISTAR DRAMA
+http://home-playtv.com:8080/Rmora01/PJNCN/203701
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-jmf0Zi7ACYw/V6b5REmQwXI/AAAAAAAAASY/9hSaAuCW-TE2Equ1bZTrai0DLqBavWWhQCLcB/s1600/movistar-dcine.png" , Movistar Drama 
+http://home-playtv.com:8080/Rmora01/PJNCN/53279
+#EXTINF:-1 tvg-logo="https://media.metrolatam.com/2018/02/19/movistarseries700x394-600x400.jpg" ,ES | Movistar Seriemania
+http://home-playtv.com:8080/Rmora01/PJNCN/47438
+#EXTINF:-1 tvg-logo="https://tveonline.webcindario.com/MCineDoc&Roll.jpg" ,MOV | MOVISTAR CINEDOC&ROLL HD
+http://home-playtv.com:8080/Rmora01/PJNCN/40697
+#EXTINF:-1 tvg-logo="https://taroca.es/images/canales/movistar-dcine.jpg" ,MOV | MOVISTAR DCINE Ñ  SD 
+http://home-playtv.com:8080/Rmora01/PJNCN/40700
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" ,MOV | MOVISTAR Disney + FHD 
+http://home-playtv.com:8080/Rmora01/PJNCN/40696
+#EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/1f/1355295.png" ,MOVISTAR  0# 
+http://home-playtv.com:8080/Rmora01/PJNCN/59530
+#EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/1f/1355295.png" ,MOVISTAR 0# FULL HD 
+http://home-playtv.com:8080/Rmora01/PJNCN/59531
+#EXTINF:-1 tvg-logo="https://tvepg.eu/img/spain/logo/movistar_accion.png" ,MOVISTAR ACCI©N hd 
+http://home-playtv.com:8080/Rmora01/PJNCN/59533
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARCOMEDIA.png" ,MOVISTAR COMEDIA FHD 
+http://home-playtv.com:8080/Rmora01/PJNCN/53276
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARCOMEDIA.png" ,Movistar Comedia SD 
+http://home-playtv.com:8080/Rmora01/PJNCN/53280
+#EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/2970868/21-m-seriesmania.png" ,MOVISTAR SERIESMANIA HD
+http://home-playtv.com:8080/Rmora01/PJNCN/59536
+#EXTINF:-1 tvg-logo="" ,CGTN
+http://home-playtv.com:8080/Rmora01/PJNCN/41634
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/eac3a86b15c43b9ccd640dc45ae103ce.png" ,NOT |  TV Galicia America
+http://home-playtv.com:8080/Rmora01/PJNCN/41913
+#EXTINF:-1 tvg-logo="" ,NOT |  Weather Channel ESPAÑOL
+http://home-playtv.com:8080/Rmora01/PJNCN/41904
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/CNN_en_Espa%C3%B1ol.svg/640px-CNN_en_Espa%C3%B1ol.svg.png" ,NOT | CNN en Español SD 
+http://home-playtv.com:8080/Rmora01/PJNCN/53068
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" ,NOT | FRANCE 24 Latino
+http://home-playtv.com:8080/Rmora01/PJNCN/185199
+#EXTINF:-1 tvg-logo="" ,VIX | VIX 2
+http://home-playtv.com:8080/Rmora01/PJNCN/415399
+#EXTINF:-1 tvg-logo="" ,VIX | VIX 3
+http://home-playtv.com:8080/Rmora01/PJNCN/415400
+#EXTINF:-1 tvg-logo="" ,VIX | VIX 5
+http://home-playtv.com:8080/Rmora01/PJNCN/415402
+#EXTINF:-1 tvg-logo="" ,VIX | VIX 4
+http://home-playtv.com:8080/Rmora01/PJNCN/415401
+#EXTINF:-1 tvg-logo="" ,VIX | Canal Lo Mejor de la Liga MX
+http://home-playtv.com:8080/Rmora01/PJNCN/415404
+#EXTINF:-1 tvg-logo="" ,VIX | Lo Mas Vixto
+http://home-playtv.com:8080/Rmora01/PJNCN/415403

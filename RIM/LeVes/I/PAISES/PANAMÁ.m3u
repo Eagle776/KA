@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qFPfkdC.png" group-title="" ,PA | RPC Canal 4 hd
+http://home-playtv.com:8080/Rmora01/PJNCN/177383
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo-telemetro.svg/1200px-Logo-telemetro.svg.png" ,PA | TeleMetro Canal 13
+http://home-playtv.com:8080/Rmora01/PJNCN/22003
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-YM3_SjkI8w4/WdZ_EvXUSqI/AAAAAAAAAR0/daKsJaQuF0wYxcz9MTOUfyhxzWTHDgSfgCLcBGAs/w1200-h630-p-k-no-nu/TVN-Panama.png" ,PA | TVN Canal 2 
+http://home-playtv.com:8080/Rmora01/PJNCN/46569
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2017_01/unnamed.png.2506449d078fd6f92beeadbb0bbe3c65.png" ,PA | RPC Canal 4
+http://home-playtv.com:8080/Rmora01/PJNCN/46570
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/640px-Logo_tvmax.png" ,PA | TVMax Canal 9 
+http://home-playtv.com:8080/Rmora01/PJNCN/46572
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Log_sertv-80-retina.png" ,PA | SerTV Canal 11
+http://home-playtv.com:8080/Rmora01/PJNCN/46573
+#EXTINF:-1 tvg-logo="https://www.medcom.com.pa/site/assets/files/1080/logo-mall-tv.png" ,PA | Mall TV
+http://home-playtv.com:8080/Rmora01/PJNCN/51273
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/cos.png" ,PA | CableOnda Sports HD (G)
+http://home-playtv.com:8080/Rmora01/PJNCN/55621
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/be/Nextv_panama.png" ,PA | Next TV 21
+http://home-playtv.com:8080/Rmora01/PJNCN/171147
+#EXTINF:-1 tvg-logo="" ,PA | Teleislas SD
+http://home-playtv.com:8080/Rmora01/PJNCN/439817
+#EXTINF:-1 tvg-logo="" ,PAN | Canal 13
+http://home-playtv.com:8080/Rmora01/PJNCN/469059

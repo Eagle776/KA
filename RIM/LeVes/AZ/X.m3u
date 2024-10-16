@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pCSBPHUPia93rppHF3UX4cLQ9M.jpg" ,X (2022) *holag
+http://home-playtv.com:8080/movie/Rmora01/PJNCN/466814.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4pCSBPHUPia93rppHF3UX4cLQ9M.jpg" ,X (2022)*pcsl*156pelis
+http://home-playtv.com:8080/movie/Rmora01/PJNCN/275016.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/GHmWzsPL5AHcJOeOpDh1Dc43uZ.jpg" ,X LA PELICULA  (1996)*pcsl
+http://home-playtv.com:8080/movie/Rmora01/PJNCN/235735.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRDAc4GogyS9ci3ow7UnInOcriN.jpg" ,X-Men (2000) 1080 LAT*25sc**dos19*
+http://home-playtv.com:8080/movie/Rmora01/PJNCN/14356.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bojMb5j1dOHvD1cKffI0AW9ARkk.jpg" ,X-Men (2000)*pcsl
+http://home-playtv.com:8080/movie/Rmora01/PJNCN/235733.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/quih8FOtyoy0z2O3ijBJLol2F5q.jpg" ,X-Men 2 (2003)
+http://home-playtv.com:8080/movie/Rmora01/PJNCN/561290.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQglrQzgZT0Oj9cQYPsLI8dsEqB.jpg" ,X-Men Origines: Wolverine (2009) 1080 LAT*25sc**dos19*
+http://home-playtv.com:8080/movie/Rmora01/PJNCN/14362.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5ET4lACwrb97sdPzmIThieasOk.jpg" ,X-Men: Apocalipsis (2016)*25sc**dos19*
+http://home-playtv.com:8080/movie/Rmora01/PJNCN/95095.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvN8iUpHyBIvniUk4e52SUZMA7Z.jpg" ,X-Men: Días del Futuro Pasado (2014) 1080 LAT*25sc**dos19*
+http://home-playtv.com:8080/movie/Rmora01/PJNCN/14360.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg" ,X-Men: Fénix oscura (2019)*25sc**156googledrive
+http://home-playtv.com:8080/movie/Rmora01/PJNCN/93602.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7RSSkRpwvkNN5iKO8zACtBA0KhQ.jpg" ,X-Men: La Batalla Final (2006) 1080 LAT*25sc**dos19*
+http://home-playtv.com:8080/movie/Rmora01/PJNCN/14358.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUvlOY575rztBuJV3a0dbHW5MQR.jpg" ,X-Men: Primera Generación (2011) 1080 LAT*25sc**dos19*
+http://home-playtv.com:8080/movie/Rmora01/PJNCN/14361.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWMw0FMsY8DICgrQnrTSWbzEgtr.jpg" ,X2 (2003) 1080 LAT*25sc**dos19*
+http://home-playtv.com:8080/movie/Rmora01/PJNCN/14357.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVgCNOMJpffFrpkHL9E4BKD6atE.jpg" ,Xanadu (1980)*pcsl
+http://home-playtv.com:8080/movie/Rmora01/PJNCN/235734.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Qf63KUjPf6L7EhQJ78uykdvqO9.jpg" ,Xochimilco (1944)*pcsl
+http://home-playtv.com:8080/movie/Rmora01/PJNCN/234639.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hba8zREJpP1AYhaXgb2oJLQeO0K.jpg" ,xXx: Return of Xander Cage (2017) 720 LAT*25sc**dos19*
+http://home-playtv.com:8080/movie/Rmora01/PJNCN/14571.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mp0Fj4Tg7zZx8SbP7iQ5oZIogDc.jpg" ,xXx: State of the Union (2005) SD LAT*25sc**dos19*
+http://home-playtv.com:8080/movie/Rmora01/PJNCN/4989.mp4
